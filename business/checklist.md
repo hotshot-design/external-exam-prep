@@ -12,7 +12,7 @@ const items = [
   "Can complete a force field analysis and draw a conclusion",
   "Can evaluate financial, HR, marketing and operations strategies",
   "Can apply the four business criteria (competitiveness, effectiveness, efficiency, stakeholder satisfaction)",
-  "Practised a full business report under timed conditions (about 45 min)",
+  "Practised a full business report under timed conditions (about 65–70 min, as in the quick reference)",
   "Practised paragraph answers: describe, explain, analyse, evaluate",
   "Know the roles of consultants and professional services",
   "Reviewed the command terms",

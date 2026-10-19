@@ -55,7 +55,7 @@ Prepare a **business report for the owners of Music Co Pty Ltd** to transform th
 
 <Diagram name="sol-2025-swot" />
 - Music Co: long-established Queensland music retailer, now a private company, 26% market share, third behind Competitors A and B (30% each) (S7); five regional stores closed in 2024 (S4).
-- Revenue, expenses and profit have fallen from their peaks, and expenses have risen in recent years (S2). Strategic plan 2025–2028: access for all generations, in-store competitive advantage and niche, raise revenue to achieve **20% profit** (S3).
+- Financials (S2, read from the graph): revenue has held at about \$2.5 million since 2020, but expenses have risen from about \$1.9 million (2015) to about \$2.25 million (2025), so profit has fallen from \$0.5 million (2015) to \$0.25 million (2025), about 10% of revenue against the 20% goal. Strategic plan 2025–2028: access for all generations, in-store competitive advantage and niche, raise revenue to achieve **20% profit** (S3).
 - USP scores: Music Co 28, versus competitors 31, 33 and 25. **Brand awareness is Music Co's weakest score (4)** and **industry partnerships its strongest (9)** (S6).
 - Options from the consultant: close more stores, keep stores and add **content creation hubs**, move streaming to an app, engage an influencer, sell the business (S5).
 - Industry: physical sales are declining, streaming and creation growing (S7, S9); costs of change are large (S7); users search for uploading and creating (S10); heavy music streaming use of 150 minutes per day (S11).

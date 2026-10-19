@@ -63,12 +63,12 @@ shuffle: true
 :::
 
 :::quiz
-question: Case fact: "Demand for local seafood has risen 36% in five years." SWOT category?
-answer-correct: Opportunity
-answer: Weakness
+question: Case fact (a gym business): "Home gym equipment sales rose 236% in Queensland between 2019 and 2023." SWOT category?
+answer-correct: Threat
 answer: Strength
-answer: Threat
-explanation: External market trend.
+answer: Weakness
+answer: Opportunity
+explanation: External and negative for a gym, because members can exercise at home instead (2024 Stimulus 10).
 shuffle: true
 :::
 

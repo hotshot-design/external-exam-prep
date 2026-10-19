@@ -5,7 +5,7 @@
 :::
 
 ## Theories
-**Lewin:** unfreeze → change → refreeze. **Kotter (8 steps):** 1 create urgency · 2 build a guiding coalition · 3 form a strategic vision · 4 **communicate the vision** · 5 **empower action** · 6 **create quick wins** · 7 build on the change · 8 make it stick. *Kotter vs Lewin:* Kotter gives practical detail and tackles resistance; Lewin is too simple.
+**Lewin:** unfreeze → change → refreeze. **Kotter (8 steps):** 1 create urgency · 2 build a guiding coalition · 3 form a strategic vision · 4 **communicate the vision** · 5 **empower action** · 6 **create quick wins** · 7 build on the change · 8 make it stick (anchor the change in the culture). *Only steps 4–6 are named in a QCAA guide (2025); the others are standard Kotter wording, so check your class notes.* *Kotter vs Lewin:* Kotter gives practical detail and tackles resistance; Lewin is too simple.
 
 ## Four business criteria (syllabus)
 | Criterion | Meaning |

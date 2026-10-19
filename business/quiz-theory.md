@@ -102,7 +102,7 @@ answer-correct: About 65–70 minutes
 answer: About 20 minutes
 answer: About 110 minutes
 answer: No more than 10 minutes
-explanation: The report is 24–25 of the 38–41 marks.
+explanation: The report is 24–25 of the 38–41 marks, so it deserves most of the time. 65–70 minutes is a suggested split, not a QCAA rule.
 shuffle: true
 :::
 

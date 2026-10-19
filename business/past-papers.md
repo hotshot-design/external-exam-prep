@@ -78,7 +78,7 @@ Same Unit 4 Topic 2 content, but a different mark structure and objective wordin
 
 **Patterns across 2020–2025**
 - **Tools:** SWOT (2021, 2023, 2024, 2025), force field (2021, 2022, 2025), power-interest (2020, 2024).
-- **Theories:** Lewin (2020), Kotter (2022, 2024, 2025).
+- **Theories:** Lewin (2020, 2023, and compared with Kotter in 2024), Kotter (2022, 2024, 2025).
 - **Function evaluated:** operations (2020, 2023), marketing (2021), HR (2022), financial (2024), change management (2025). A different function each year, so practise **operations, marketing and HR** strategies as well as the two most recent.
 - **Criteria:** the 2021 guide lists competitiveness, effectiveness, efficiency and stakeholder satisfaction; later years accept any two.
 - **Guide advice (2021):** "evaluate existing practices … not possible alternatives. Decisions should relate to the strategies used to date. Recommendations may include alternative strategies."

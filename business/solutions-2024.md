@@ -26,7 +26,7 @@ Built from the QCAA **2024 Business** question and response book, stimulus book 
 - **New partner Anton (positive):** he holds 50% ownership and drives the plan, so the owners must manage his power and interests to keep the transformation aligned with the strategic plan.
 - **Current dissatisfied members (negative):** they influence other and potential members through reviews and cancellations, so unresolved dissatisfaction could prevent the business from regaining market share.
 
-Other high-power/high-interest choices from the grid: the two proposed additional managers, potential members.
+Other stakeholders in the high-power/high-interest box of Stimulus 9: the two proposed additional managers (positive), the 2 permanent employees needing retraining (negative) and potential suppliers (neutral). Potential members and the 100 foundation members sit in the high-power, *lower-interest* box, so they are not the best choices here.
 
 ## Section 2: extended response (25 marks)
 
@@ -49,7 +49,7 @@ Compared with 2025, Communicating is worth **3** (report genre matters), and the
 <Diagram name="sol-2024-costbenefit" />
 
 <Diagram name="sol-2024-swot" />
-- Gym Business opened 2017 by owners Harper and Hudson; rapid growth to 2019, then closure Apr–Jul 2020 (pandemic), and **profits and membership have declined since 2020**; owners seek a financial injection in 2023 (S2).
+- Gym Business opened 2017 by owners Harper and Hudson; rapid growth in 2018 and steady growth in 2019, then closure Apr–Jul 2020 (pandemic), and **profits and membership have declined since 2020** (profit peaked at about \$33 000 in 2019, fell to under \$1 000 in 2023 and is forecast at about \$9 000 for 2024, read from the S2 graph); owners seek a financial injection in 2023 (S2).
 - Market share of the business has **declined 2019–2023** (S5). Reviews: limited services, "lacks a vibe", lock-in contracts, but owners are passionate and personal (S4).
 - New partner Anton offers **$900 000 for 50%** ownership. The plan expands services (dietitian, physiotherapy, retail), increases online presence and restructures staff (S6, S7).
 - **Cost-benefit:** additional costs **$934 470** (private company registration $15 000, wages $342 000, recruitment/training $2 470, refurbishment $500 000, marketing $75 000). Benefits **$1 098 700** (new markets $719 550, retention $379 150). Payback **0.85 years (10.2 months)** (S8).

@@ -62,7 +62,7 @@ explanation: 1 plus 1.5 equals 2.5 (Stimulus 7); the guide uses these as forces 
 question: Of 10 815 average monthly searches including 'music', 2 600 are for 'where to upload music demo'. What percentage is this, to the nearest whole number?
 answer-input: 24
 answer-input: 24%
-explanation: 2 600 / 10 815 = 24% (Stimulus 10), the figure quoted in the guide's sample. (QCAA 2025 Q3 — [Question paper, p.6](/business/papers/snr_business_25_ea_question_response.pdf#page=6) · [Marking guide, p.5](/business/papers/snr_business_25_ea_mark_guide_pub.pdf#page=5)) · [Worked solution](/business/solutions-2025#q3-9-marks-force-field-analysis-from-case-study-1)
+explanation: 2 600 / 10 815 = 24% (Stimulus 10), the percentage printed in the stimulus. The guide's sample quotes the 2 600 figure. (QCAA 2025 Q3 — [Question paper, p.6](/business/papers/snr_business_25_ea_question_response.pdf#page=6) · [Marking guide, p.5](/business/papers/snr_business_25_ea_mark_guide_pub.pdf#page=5)) · [Worked solution](/business/solutions-2025#q3-9-marks-force-field-analysis-from-case-study-1)
 :::
 
 :::quiz

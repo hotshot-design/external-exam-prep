@@ -66,7 +66,11 @@ Competition (online and national retailer), technology, corporate culture (resis
 
 ---
 
-## Model business report (exam format, about 280 words)
+## Model business report (exam structure, about 295 words)
+
+::: warning Shorter than the exam range
+The exam asks for **400–600 words**. This model is shorter so the structure is easy to see. Add data from the stimulus (with numbers) to each section to reach at least 400 words. See the full-length models in the [2025](/business/solutions-2025) and [2024](/business/solutions-2024) solutions.
+:::
 
 > **To:** Owners, Harbour Home Hardware  **From:** Business consultant  **Date:** 3 November
 > **Subject:** Transforming Harbour Home Hardware

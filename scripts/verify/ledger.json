@@ -1,4 +1,109 @@
 {
+ "business/checklist.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "df79a598c15f",
+  "notes": "Aligned the timed-report item (45 min) with the 65-70 minute guidance used elsewhere; other items are study actions consistent with the syllabus.",
+  "result": "fixed"
+ },
+ "business/flashcards.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "a50db24c556b",
+  "notes": "All 36 cards checked against syllabus, 2020-2025 guides and the quizzes: marks (2023 report 6/8/8/3), Lewin/Kotter, resistance strategies, criteria definitions, grid actions consistent.",
+  "result": "pass"
+ },
+ "business/glossary.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "f1b0c264dd5b",
+  "notes": "~100 terms checked for accuracy and syllabus alignment (post-maturity outcomes, Lewin/Kotter, management styles, resistance methods, tools). Replaced the four business-criteria definitions with the syllabus wording (p.31).",
+  "result": "fixed"
+ },
+ "business/index.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "35bb39999906",
+  "notes": "Exam format, 25%, 15+120 min, objectives, 'no case study for Topic 2', mark totals checked against syllabus pp.27, 45 and 2024/2025 papers.",
+  "result": "pass"
+ },
+ "business/notes.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "5afc0a8c351e",
+  "notes": "Syllabus subject matter (pp.29-30), management styles, resistance strategies, performance management, 2020-22 short-response facts (refreeze KPIs/reward/feedback, legislative compliance, styles, consultants) and report structure/marks verified against syllabus and guides.",
+  "result": "pass"
+ },
+ "business/past-papers.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "0cfde2d7e2de",
+  "notes": "2020-2025 totals, section marks, question counts, word limits, cases and report criteria verified against all question books and guides (2023 guide is image-only: rendered p5). Fixed 'Theories' pattern: Lewin also in 2023 and compared in 2024.",
+  "result": "fixed"
+ },
+ "business/practice.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "f45d21ef0a67",
+  "notes": "Original fictional case; arithmetic (force field 15 vs 12) and Lewin/resistance/criteria content checked against syllabus. Model report heading said 'exam format, about 280 words' but is 295 words and below the 400-600 exam range: relabelled and added a warning.",
+  "result": "fixed"
+ },
+ "business/quick-reference.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "340b9f27cdbc",
+  "notes": "Marks, timings, criteria, drivers, styles, resistance methods checked against syllabus p.29 and guides. Added note that only Kotter steps 4-6 are named in a QCAA guide.",
+  "result": "fixed"
+ },
+ "business/quiz-case.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "2ce2282d0930",
+  "notes": "SWOT/force-field classifications checked. Replaced the 'local seafood +36%' fact because the page says cases are from 2024-25 (the fact IS in 2023 Stimulus 7, a rendered image, so it was accurate but misattributed); now uses 2024 S10 home gym equipment +236%.",
+  "result": "fixed"
+ },
+ "business/quiz-short-response-2020-21.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "037347f29ac2",
+  "notes": "Keyed answers, calculation (164%, 10 400), stimulus facts (2020 herb farm, 2021 surfboard and butcher cases) and guide content verified. Fixed marking-guide links: 2020 Q2/Q3/Q4 and 2021 Q3 pointed at the wrong guide page (text and #page anchor). Added check.py checks for question/guide anchor pages and p.N vs #page=N.",
+  "result": "fixed"
+ },
+ "business/quiz-short-response-2022-23.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "dc1b1568bfda",
+  "notes": "All keyed answers, calculations (24%, 78 345, 26 pts, 849 820, 26 450, 39 pts) and case facts verified against the 2022 and 2023 stimulus books (2023 stimulus and guide are image-only: rendered pp.4-7 and guide pp.3-4) and guides; question and 2022 guide page anchors confirmed. 2023 guide links have no #page anchor.",
+  "result": "pass"
+ },
+ "business/quiz-short-response-2024-25.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "36882764afd9",
+  "notes": "All keyed answers, calculations (10 815 searches, 24%, 164 230, 34 470, 2 894.59, 10.2 months) and page anchors verified against 2024/2025 guides and stimulus (rendered S9 grid). Fixed a misattribution: 24% is printed in Stimulus 10, not quoted by the guide sample.",
+  "result": "fixed"
+ },
+ "business/quiz-theory.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "42243fa0c9c4",
+  "notes": "All keyed answers verified against syllabus and 2020/2024/2025 guides. Labelled the 65-70 minute report time as a suggestion, not a QCAA rule.",
+  "result": "fixed"
+ },
+ "business/solutions-2024.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "ed812fe7ba73",
+  "notes": "Marks (2/3/4/4=13; report 2+4+8+8+3=25; total 38), question wording, guide samples, and all stimulus data (S1-S11, rendered S2 graph and S9 grid) verified. Fixed S9 error: 'potential members' are not in the high-power/high-interest box. Corrected '2018 rapid growth' wording and added graph profit values.",
+  "result": "fixed"
+ },
+ "business/solutions-2025.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "e844fee9c81d",
+  "notes": "Marks (2/6/9=17; report 2+4+8+8+2=24; total 41), question wording, guide samples, Kotter steps, all stimulus data (S1-S11 incl. rendered S2 graph) and syllabus criteria definitions verified. Fixed S2 financial claim: revenue had NOT fallen (about 2.5m since 2020); expenses rose and profit fell 0.5m->0.25m.",
+  "result": "fixed"
+ },
  "spanish/checklist.md": {
   "by": "claude",
   "date": "2026-10-19",

@@ -35,6 +35,11 @@ def check_links():
             if page and path.endswith('.pdf'):
                 n = pdf_pages(full)
                 if int(page) > n or int(page) < 1: add('ERROR', rel(f), f'{path}#page={page} but the PDF has {n} pages')
+    # the visible "p.N" must equal the #page=N it links to
+    for f in md_files():
+        for m in re.finditer(r'\[[^\]]*?, p\.(\d+)\]\([^)#]+\.pdf#page=(\d+)\)', open(f).read()):
+            if m.group(1) != m.group(2): add('ERROR', rel(f), f'link text says p.{m.group(1)} but opens #page={m.group(2)}')
+
 
 # ---- 2. quiz structure ----------------------------------------------------------------------
 def check_quizzes():
@@ -55,6 +60,32 @@ def check_quizzes():
         # duplicate questions
         qs = re.findall(r'^question:\s*(.+)$', t, re.M)
         for d in {x for x in qs if qs.count(x) > 1 and not re.search(r'match', x)}: add('WARN', rel(f), f'duplicate question text: "{d[:60]}"')
+
+
+# ---- 2b. "QCAA <year> Q<n>" links land on the right page of the paper and the guide --------------
+@functools.lru_cache(None)
+def pdf_text_pages(path):
+    out = subprocess.run([XP, path], capture_output=True, text=True).stdout
+    parts = re.split(r'=====PAGE (\d+)\n', out)
+    return {int(parts[i]): parts[i + 1] for i in range(1, len(parts), 2)}
+
+def check_question_anchors():
+    paper = re.compile(r'QCAA (20\d\d) ((?:P[12] )?)Q(\d+) \u2014 \[Question paper, p\.(\d+)\]\((/[^)#]+)#page=\d+\)')
+    guide = re.compile(r'QCAA (20\d\d) ((?:P[12] )?)Q(\d+) \u2014 \[[^\]]*\]\([^)]*\) \u00b7 \[Marking guide, p\.(\d+)\]\((/[^)#]+)#page=\d+\)')
+    for f in md_files():
+        t = open(f).read()
+        for m in paper.finditer(t):
+            y, pp, q, pg, path = m.groups(); q, pg = int(q), int(pg)
+            txt = pdf_text_pages(ROOT + path).get(pg, '')
+            if not txt.strip(): continue  # image-only page: cannot check by text
+            if not (re.search(r'QUESTION\s+%d\b' % q, txt, re.I) or re.search(r'(?m)^%d[ab]?\s*$' % q, txt)):
+                add('ERROR', rel(f), f'QCAA {y} {pp}Q{q}: question paper p.{pg} does not contain that question')
+        for m in guide.finditer(t):
+            y, pp, q, pg, path = m.groups(); q, pg = int(q), int(pg)
+            txt = pdf_text_pages(ROOT + path).get(pg, '')
+            if not txt.strip(): continue
+            if not (re.search(r'(?m)^(Q\s)?%d[a-z]?\)?[ \t]' % q, txt) or re.search(r'Sample response\s*%d\b' % q, txt) or re.search(r'(?m)^%d$' % q, txt)):
+                add('WARN', rel(f), f'QCAA {y} {pp}Q{q}: marking guide p.{pg} may not contain that question (check by eye)')
 
 # ---- 3. exam dates and sessions agree everywhere -------------------------------------------
 def check_exam_facts():
@@ -117,7 +148,7 @@ def main():
         r = subprocess.run(['npx', 'vitepress', 'build'], cwd=ROOT, capture_output=True, text=True)
         if r.returncode != 0 or 'build complete' not in r.stdout: add('ERROR', 'build', (r.stdout + r.stderr)[-400:])
     ensure_xp()
-    for fn in (check_links, check_quizzes, check_exam_facts, check_year_refs, check_diagrams, check_pages): fn()
+    for fn in (check_links, check_question_anchors, check_quizzes, check_exam_facts, check_year_refs, check_diagrams, check_pages): fn()
     if '--json' in sys.argv: print(json.dumps(issues, indent=1))
     else:
         for lvl in ('ERROR', 'WARN'):

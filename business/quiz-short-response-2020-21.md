@@ -49,7 +49,7 @@ question: Match each business need to the consultant or professional service the
 pair: Identify and access new or emerging markets to lift sales and profits => Market analysts
 pair: Reach first-time surfers to broaden the market => Marketing consultants
 pair: Advise on operating a manufacturing business offshore => Lawyers
-explanation: These are the three assistance examples in the 2021 guide's notes for the surfboard business, which is in renewal and seeking new growth. (QCAA 2021 Q3 — [Question paper, p.4](/business/papers/snr_business_21_ea_question_response.pdf#page=4) · [Marking guide, p.4](/business/papers/snr_business_21_ea_mark_guide_pub.pdf#page=4))
+explanation: These are the three assistance examples in the 2021 guide's notes for the surfboard business, which is in renewal and seeking new growth. (QCAA 2021 Q3 — [Question paper, p.4](/business/papers/snr_business_21_ea_question_response.pdf#page=4) · [Marking guide, p.5](/business/papers/snr_business_21_ea_mark_guide_pub.pdf#page=5))
 :::
 
 :::quiz
@@ -135,7 +135,7 @@ answer-correct: Run a social media campaign within three months promoting the he
 answer: Improve the business as soon as possible
 answer: Keep growing soil-grown herbs and avoid any new system
 answer: Reduce marketing so the business can focus on cutting costs
-explanation: The 2020 guide's sample objective is a time-bound social media campaign that builds market share, and it links directly to the vision for change. Vague, anti-change or anti-marketing objectives do not. (QCAA 2020 Q2 — [Question paper, p.4](/business/papers/snr_business_20_ea_question_response.pdf#page=4) · [Marking guide, p.3](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=3))
+explanation: The 2020 guide's sample objective is a time-bound social media campaign that builds market share, and it links directly to the vision for change. Vague, anti-change or anti-marketing objectives do not. (QCAA 2020 Q2 — [Question paper, p.4](/business/papers/snr_business_20_ea_question_response.pdf#page=4) · [Marking guide, p.4](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=4))
 shuffle: true
 :::
 
@@ -145,7 +145,7 @@ answer-input: 10400
 answer-input: $10400
 answer-input: $10,400
 answer-input: 10 400
-explanation: $52 000 divided by 5 years is $10 400 a year, before interest. (QCAA 2020 Q2 — [Question paper, p.4](/business/papers/snr_business_20_ea_question_response.pdf#page=4) · [Marking guide, p.3](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=3))
+explanation: $52 000 divided by 5 years is $10 400 a year, before interest. (QCAA 2020 Q2 — [Question paper, p.4](/business/papers/snr_business_20_ea_question_response.pdf#page=4) · [Marking guide, p.4](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=4))
 :::
 
 :::quiz
@@ -153,7 +153,7 @@ question: Match each refreeze-stage activity (Lewin) at Herbs & Spices Inc. to i
 pair: Set KPIs such as harvesting-rate targets => Creates a reward system that keeps staff engaged and shifts the culture
 pair: Create a hydroponic system maintenance team => Builds a new organisational structure so all staff know where they fit
 pair: Run regular customer surveys => Sets up a feedback system to spot threats such as negative advocacy from Rambler Farming
-explanation: These are the three refreeze activities in the 2020 guide's sample response: rewards/KPIs, a new organisational structure and a feedback system. (QCAA 2020 Q3 — [Question paper, p.5](/business/papers/snr_business_20_ea_question_response.pdf#page=5) · [Marking guide, p.3](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=3))
+explanation: These are the three refreeze activities in the 2020 guide's sample response: rewards/KPIs, a new organisational structure and a feedback system. (QCAA 2020 Q3 — [Question paper, p.5](/business/papers/snr_business_20_ea_question_response.pdf#page=5) · [Marking guide, p.5](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=5))
 :::
 
 :::quiz
@@ -162,7 +162,7 @@ pair: High power, high interest => Manage closely
 pair: High power, low interest => Keep satisfied
 pair: Low power, high interest => Keep informed
 pair: Low power, low interest => Monitor
-explanation: The power interest grid sorts stakeholders by power and interest; 2024's guide confirms high power and high interest means managed closely, and the other three follow the standard grid. (QCAA 2020 Q4 — [Question paper, p.6](/business/papers/snr_business_20_ea_question_response.pdf#page=6) · [Marking guide, p.4](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=4))
+explanation: The power interest grid sorts stakeholders by power and interest; 2024's guide confirms high power and high interest means managed closely, and the other three follow the standard grid. (QCAA 2020 Q4 — [Question paper, p.6](/business/papers/snr_business_20_ea_question_response.pdf#page=6) · [Marking guide, p.6](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=6))
 :::
 
 :::quiz
@@ -171,7 +171,7 @@ answer-correct: Opportunity
 answer: Strength
 answer: Weakness
 answer: Threat
-explanation: It is an external favourable factor, so it is an opportunity; strengths and weaknesses are internal and threats are external unfavourable factors. (QCAA 2020 Q4 — [Question paper, p.6](/business/papers/snr_business_20_ea_question_response.pdf#page=6) · [Marking guide, p.4](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=4))
+explanation: It is an external favourable factor, so it is an opportunity; strengths and weaknesses are internal and threats are external unfavourable factors. (QCAA 2020 Q4 — [Question paper, p.6](/business/papers/snr_business_20_ea_question_response.pdf#page=6) · [Marking guide, p.6](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=6))
 shuffle: true
 :::
 
@@ -181,7 +181,7 @@ answer-correct: Efficiency
 answer: Competitiveness
 answer: Effectiveness
 answer: Stakeholder satisfaction
-explanation: Efficiency is optimising the use of resources and processes; less labour time and fewer inputs for the same output is an efficiency judgment (syllabus). (QCAA 2020 Q4 — [Question paper, p.6](/business/papers/snr_business_20_ea_question_response.pdf#page=6) · [Marking guide, p.4](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=4))
+explanation: Efficiency is optimising the use of resources and processes; less labour time and fewer inputs for the same output is an efficiency judgment (syllabus). (QCAA 2020 Q4 — [Question paper, p.6](/business/papers/snr_business_20_ea_question_response.pdf#page=6) · [Marking guide, p.6](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=6))
 shuffle: true
 :::
 
@@ -191,7 +191,7 @@ answer-correct: Stakeholder satisfaction
 answer: Efficiency
 answer: Competitiveness
 answer: Effectiveness
-explanation: Stakeholder satisfaction is considering and managing stakeholder expectations (owners and employees here), per the syllabus definition. (QCAA 2020 Q4 — [Question paper, p.6](/business/papers/snr_business_20_ea_question_response.pdf#page=6) · [Marking guide, p.4](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=4))
+explanation: Stakeholder satisfaction is considering and managing stakeholder expectations (owners and employees here), per the syllabus definition. (QCAA 2020 Q4 — [Question paper, p.6](/business/papers/snr_business_20_ea_question_response.pdf#page=6) · [Marking guide, p.6](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=6))
 shuffle: true
 :::
 
@@ -201,6 +201,6 @@ answer-correct: Hydroponic plants grow 25-30% faster than soil-grown plants
 answer-correct: Customers want fewer seasonal fluctuations in the supply of herbs
 answer: Rambler Farming blogs that hydroponics is not the way of the future
 answer: Joe and Diane believe the new packaging process is all that is needed
-explanation: Faster growth and a customer need for steadier supply drive change; the Rambler Farming lobbying and the owners' view of no more change restrain it. (QCAA 2020 Q4 — [Question paper, p.6](/business/papers/snr_business_20_ea_question_response.pdf#page=6) · [Marking guide, p.4](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=4))
+explanation: Faster growth and a customer need for steadier supply drive change; the Rambler Farming lobbying and the owners' view of no more change restrain it. (QCAA 2020 Q4 — [Question paper, p.6](/business/papers/snr_business_20_ea_question_response.pdf#page=6) · [Marking guide, p.6](/business/papers/snr_business_20_ea_mark_guide_pub.pdf#page=6))
 shuffle: true
 :::
