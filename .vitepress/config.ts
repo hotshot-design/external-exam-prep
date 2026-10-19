@@ -44,7 +44,11 @@ const subjectNav = [
   { text: 'Digital Solutions', link: '/digital-solutions/' },
 ]
 
+const siteBase = process.env.GITHUB_ACTIONS ? '/external-exam-prep' : ''
+
 export default defineConfig({
+  // GitHub Pages serves the site from /external-exam-prep/; local dev stays at /
+  base: siteBase ? `${siteBase}/` : '/',
   title: 'Year 12 Exam Hub',
   description: 'QCAA external assessment revision – 2026',
   lang: 'en-AU',
@@ -68,6 +72,7 @@ export default defineConfig({
         ((tokens, idx, options, _env, self) => self.renderToken(tokens, idx, options))
       md.renderer.rules.link_open = (tokens, idx, options, env, self) => {
         const href = tokens[idx].attrGet('href') || ''
+        if (/\.(pdf|mp3)(#.*)?$/i.test(href) && href.startsWith('/')) tokens[idx].attrSet('href', siteBase + href.slice(1 - 1))
         if (/\.(pdf|mp3)(#.*)?$/i.test(href) || /^https?:\/\//i.test(href)) {
           tokens[idx].attrSet('target', '_blank')
           tokens[idx].attrSet('rel', 'noopener noreferrer')

@@ -1,5 +1,6 @@
 import { defineComponent, h, inject, nextTick, onBeforeUnmount, onMounted, provide, ref, watch } from 'vue'
 import type { App } from 'vue'
+import { withBase } from 'vitepress'
 
 /**
  * The quiz plugin only reveals answers when the page-level "Validate" is pressed.
@@ -51,7 +52,7 @@ export function enableLiveQuizFeedback(app: App) {
               if (m.index) frag.append(rest.slice(0, m.index))
               const a = document.createElement('a')
               a.textContent = m[1]
-              a.href = m[2]
+              a.href = m[2].startsWith('/') ? withBase(m[2]) : m[2]
               if (/\.(pdf|mp3)(#.*)?$/i.test(m[2]) || /^https?:/i.test(m[2])) { a.target = '_blank'; a.rel = 'noopener noreferrer' }
               frag.append(a)
               rest = rest.slice(m.index + m[0].length)
