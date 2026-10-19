@@ -38,6 +38,9 @@ A VitePress 1.6 study site for a Queensland Year 12 student sitting the **QCAA 2
 - Embed with `<Diagram name="x" caption="..." />` (the SVG is looked up in `.vitepress/theme/diagrams/`). List new diagrams in `diagrams.md`.
 - Styles use VitePress CSS variables so light and dark both work. After changes, build, open the page and check **legibility, overlap and accuracy against the source PDF**, in light and dark, and at phone width. Question-specific diagrams must use the paper's real numbers.
 
+## Verifying accuracy
+The process for checking the site against the QCAA sources is in [VERIFY.md](VERIFY.md). Tools: `python3 scripts/verify/check.py --build` (mechanical checks, exit 1 on errors), `python3 scripts/verify/maths_examples.py` (recomputes the worked examples), `python3 scripts/verify/ledger.py status|next|record` (which pages have been reviewed against the PDFs, and which are stale). Run `check.py` after content edits.
+
 ## Verifying changes
 - Build clean, then look at the changed pages in a browser (Playwright with system Chrome works; there is no poppler, and text and page images come from the Swift PDFKit tools).
 - Check phone width (no horizontal scroll, 16px gutters) and dark mode for anything visual.

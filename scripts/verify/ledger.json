@@ -1,0 +1,9 @@
+{
+ "timetable.md": {
+  "by": "claude-pilot",
+  "date": "2026-10-19",
+  "hash": "98329bfaca21",
+  "notes": "Rendered QCAA timetable PDF pp.3-4 (image-only, no text layer). All 7 exams match: dates, AM/PM, writing time, perusal (English 2h+15m, Spanish 2h+5m, Business 2h+15m, Film 2h+20m, Maths P1/P2 90m+5m, Digital 2h+5m).",
+  "result": "pass"
+ }
+}
