@@ -1,0 +1,6 @@
+Spanish: https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/languages/spanish https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_spanish_25_syll.pdf
+General Mathematics: https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/mathematics/general-mathematics https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_maths_general_25_syll.pdf
+General English: Text: Othello https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/english/english https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_english_25_syll.pdf
+Digital Sollutions: https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/digital-solutions https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_digital_solutions_25_syll.pdf
+Film: https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/film-television-new-media https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_film_tv_25_syll.pdf
+Business: https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/business https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_business_25_syll.pdf@Su

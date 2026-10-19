@@ -1,0 +1,45 @@
+# Spanish flashcards
+
+<script setup>
+const cards = [
+  { q: "Section 3 task and length?", a: "An email in Spanish addressing three bullet points, 200–300 words." },
+  { q: "Textual conventions marks (Section 3)?", a: "2 marks: a greeting and a sign-off (or formal opening and closure)." },
+  { q: "How do you answer 'identify the tone and justify with 3 examples'?", a: "Name the tone (1 mark) then give exactly 3 specific examples of language or content from the text." },
+  { q: "Context / purpose / audience / tone / perspective in Spanish?", a: "El contexto / el propósito / la audiencia / el tono / la perspectiva." },
+  { q: "Frame: 'The tone is grateful. This is evident when…'", a: "El tono es agradecido. Esto es evidente cuando…" },
+  { q: "Formal email opening and closing?", a: "Estimados señores / Estimada profesora… ; Atentamente / Un saludo." },
+  { q: "Can the audio be replayed?", a: "Yes, as often as you need (2024 and 2025 papers)." },
+  { q: "graduation", a: "la graduación" },
+  { q: "volunteering", a: "el voluntariado" },
+  { q: "career", a: "la carrera / la profesión" },
+  { q: "employment / job", a: "el empleo / el trabajo" },
+  { q: "salary", a: "el sueldo / el salario" },
+  { q: "to move out / become independent", a: "independizarse" },
+  { q: "to rent", a: "alquilar" },
+  { q: "gap year", a: "el año sabático" },
+  { q: "sustainability", a: "la sostenibilidad" },
+  { q: "climate change", a: "el cambio climático" },
+  { q: "renewable energy", a: "las energías renovables" },
+  { q: "global citizen", a: "el ciudadano global / la ciudadana global" },
+  { q: "bilingual", a: "bilingüe" },
+  { q: "to keep in touch", a: "mantenerse en contacto" },
+  { q: "community", a: "la comunidad" },
+  { q: "Near future: 'I'm going to study'", a: "Voy a estudiar" },
+  { q: "Simple future: 'I will work' (trabajar)", a: "Trabajaré" },
+  { q: "Conditional: 'I would like to travel'", a: "Me gustaría viajar" },
+  { q: "Future irregular stems: tener, hacer, poder, salir, venir", a: "tendr-, har-, podr-, saldr-, vendr-" },
+  { q: "Subjunctive trigger: 'I hope that…'", a: "Espero que + subjuntivo (Espero que tengas suerte)" },
+  { q: "'If I had time, I would volunteer'", a: "Si tuviera tiempo, haría voluntariado." },
+  { q: "'However'", a: "Sin embargo" },
+  { q: "'In my opinion'", a: "En mi opinión / Desde mi punto de vista" },
+  { q: "'Therefore'", a: "Por lo tanto" },
+  { q: "'On the one hand… on the other hand'", a: "Por un lado… por otro lado" },
+  { q: "'In conclusion'", a: "En conclusión / En resumen" },
+  { q: "Por or para: purpose/deadline?", a: "para (para + infinitive = in order to)" },
+  { q: "Por or para: cause/duration?", a: "por" },
+  { q: "Preterite vs imperfect?", a: "Preterite = completed action; imperfect = habit/description in the past." },
+  { q: "Two exam tips for audio stimulus", a: "Read questions in perusal; note tone/purpose/speaker and numbers/names; answer in the language requested." },
+]
+</script>
+
+<Flashcards id="spanish" :cards="cards" />

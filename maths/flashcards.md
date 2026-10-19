@@ -1,0 +1,46 @@
+# General Maths flashcards
+
+<script setup>
+const cards = [
+  { q: "Residual?", a: "Actual − predicted. Positive means the point is above the line." },
+  { q: "Slope of the least-squares line from r?", a: "m = r × s(y) ÷ s(x); then c = ȳ − m·x̄." },
+  { q: "Actual from a deseasonalised value?", a: "Actual = deseasonalised × seasonal index. Seasonal indices sum to the number of seasons." },
+  { q: "Valid cut in a flow network?", a: "Source and sink on opposite sides; add only capacities directed from the source side to the sink side." },
+  { q: "Hungarian algorithm adjustment step?", a: "If fewer than n lines cover the zeros: subtract the smallest uncovered value from uncovered entries, add it to doubly covered entries." },
+  { q: "Trail vs path vs cycle?", a: "Trail: no repeated edges. Path: no repeated vertices or edges. Cycle: a closed path." },
+  { q: "Adjacency matrix with a double edge?", a: "The entry is 2." },
+  { q: "Interpolation vs extrapolation?", a: "Inside the data range vs outside it; extrapolation is less reliable." },
+  { q: "Recurrence A(n+1) = r·A(n) − d: find the rate?", a: "r = 1 + i, so i = r − 1 per period." },
+  { q: "Longitude from a time difference?", a: "15° = 1 hour; earlier sunrise means further east." },
+  { q: "Why check a plot before using r?", a: "r only measures linear association; a curved pattern can still give a high r." },
+  { q: "R² in words?", a: "The proportion (as a %) of variation in y explained by the linear relationship with x. R² = r²." },
+  { q: "Least-squares line formulas?", a: "m = r(sy/sx), c = ȳ − m·x̄, y = mx + c" },
+  { q: "Describe an association between numerical variables using…", a: "Direction, form, strength." },
+  { q: "Interpolation vs extrapolation?", a: "Interpolation: within data range (reliable). Extrapolation: outside the range (risky)." },
+  { q: "Two non-causal explanations for an association?", a: "Coincidence; influence of another (confounding) variable." },
+  { q: "Three components of a time series?", a: "Trend, seasonality, irregular fluctuations." },
+  { q: "Deseasonalised value?", a: "Actual value ÷ seasonal index." },
+  { q: "nth term of an arithmetic sequence?", a: "t_n = t_1 + (n − 1)d" },
+  { q: "nth term of a geometric sequence?", a: "t_n = t_1 · r^(n−1)" },
+  { q: "Distance on the same meridian (km)?", a: "D = 111.2 × angular distance" },
+  { q: "Distance on the same parallel?", a: "D = 111.2 × cos(latitude) × angular distance" },
+  { q: "Degrees of longitude per hour?", a: "15° = 1 hour" },
+  { q: "Compound interest formula?", a: "A = P(1 + i)^n" },
+  { q: "Effective annual interest rate?", a: "i_effective = (1 + i)^k − 1" },
+  { q: "Present value annuity formula?", a: "A_PV = d × (1 − (1 + i)^(−n)) / i" },
+  { q: "Future value annuity formula?", a: "A_FV = d × ((1 + i)^n − 1) / i" },
+  { q: "Perpetuity formula?", a: "A = d / i" },
+  { q: "Recurrence for a reducing-balance loan?", a: "A_{n+1} = r·A_n − d, r = 1 + i" },
+  { q: "Euler's formula for planar graphs?", a: "v + f − e = 2" },
+  { q: "When does an Eulerian circuit exist?", a: "Connected graph with all vertices of even degree." },
+  { q: "When does an Eulerian trail (semi-Eulerian) exist?", a: "Connected graph with exactly two odd-degree vertices." },
+  { q: "Minimum spanning tree – how?", a: "Kruskal: add the shortest edge that does not create a cycle, until all vertices are connected." },
+  { q: "CPA: float formula?", a: "Float = LST − EST of an activity." },
+  { q: "Critical path?", a: "The longest path through the network; activities with zero float; gives the minimum project time." },
+  { q: "Max-flow min-cut theorem?", a: "Maximum flow equals the capacity of the minimum cut." },
+  { q: "Hungarian algorithm: how to handle a maximisation problem?", a: "Subtract every value from the largest value to convert to a minimisation problem, then apply the algorithm." },
+  { q: "Paper 1 vs Paper 2 style?", a: "P1: simple familiar short response + multiple choice (30%). P2: complex familiar and unfamiliar problems (20%)." },
+]
+</script>
+
+<Flashcards id="maths" :cards="cards" />
