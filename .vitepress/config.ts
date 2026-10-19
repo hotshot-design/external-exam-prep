@@ -54,7 +54,7 @@ export default defineConfig({
   title: 'Year 12 Exam Hub',
   description: 'QCAA external assessment revision – 2026',
   lang: 'en-AU',
-  srcExclude: ['SUBJECTS.md'],
+  srcExclude: ['SUBJECTS.md', 'AGENTS.md'],
   // Non-markdown files in the source folders are not copied by `vitepress build`,
   // so copy each subject's papers/ and syllabus/ folders (PDFs, audio) into the built site.
   buildEnd(siteConfig) {
