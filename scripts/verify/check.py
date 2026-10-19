@@ -143,12 +143,36 @@ def check_pages():
                 inner = m.group(1)
                 if len(re.findall(r'[A-Za-z]{3,}', inner)) >= 3 and '\\' not in inner: add('WARN', f'{rel(f)}:{i}', f'money $ may be read as maths: "${inner[:40]}..." (escape as \\$)')
 
+
+# ---- 7. in-page anchors (#...) point at a heading that exists in the built site ---------------
+def check_anchors():
+    import html, urllib.parse
+    dist = f'{ROOT}/.vitepress/dist'
+    if not os.path.isdir(dist): add('WARN', 'anchors', 'no build found; run with --build to check #anchors'); return
+    ids = {}
+    def ids_of(page):
+        if page not in ids:
+            f = f'{dist}/{page}.html' if not page.endswith('/') else f'{dist}/{page}index.html'
+            ids[page] = set(html.unescape(i) for i in re.findall(r'id="([^"]+)"', open(f).read())) if os.path.exists(f) else None
+        return ids[page]
+    for f in md_files():
+        here = '/' + rel(f)[:-3]
+        for m in re.finditer(r'\]\((/[^)#\s]*)?#([^)\s]+)\)', open(f).read()):
+            target = (m.group(1) or here).rstrip('/') or '/index'
+            if target.endswith('.pdf') or target.endswith('.mp3'): continue
+            page = target.lstrip('/') or 'index'
+            if page.endswith('.html'): page = page[:-5]
+            found = ids_of(page) if os.path.exists(f'{dist}/{page}.html') else ids_of(page + '/')
+            frag = urllib.parse.unquote(m.group(2))
+            if found is not None and frag not in found:
+                add('ERROR', rel(f), f'anchor #{frag} not found on {target}')
+
 def main():
     if '--build' in sys.argv:
         r = subprocess.run(['npx', 'vitepress', 'build'], cwd=ROOT, capture_output=True, text=True)
         if r.returncode != 0 or 'build complete' not in r.stdout: add('ERROR', 'build', (r.stdout + r.stderr)[-400:])
     ensure_xp()
-    for fn in (check_links, check_question_anchors, check_quizzes, check_exam_facts, check_year_refs, check_diagrams, check_pages): fn()
+    for fn in (check_links, check_question_anchors, check_quizzes, check_exam_facts, check_year_refs, check_diagrams, check_pages, check_anchors): fn()
     if '--json' in sys.argv: print(json.dumps(issues, indent=1))
     else:
         for lvl in ('ERROR', 'WARN'):

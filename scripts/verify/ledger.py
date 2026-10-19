@@ -30,6 +30,12 @@ def risk(page):
     name = os.path.basename(page)[:-3]
     return min((v for k, v in RISK.items() if name.startswith(k)), default=3)
 
+def recency(page):
+    """Latest exam year a page covers: 2024-25 material is reviewed first (pages with no year count as current)."""
+    years = [int(y) for y in re.findall(r'20(?:2[0-9])', os.path.basename(page))]
+    years += [2000 + int(y) for y in re.findall(r'20\d\d[-–](\d\d)', os.path.basename(page))]
+    return max(years) if years else 2025
+
 def sources(page):
     """Source PDFs a page must be checked against, derived from its name and subject."""
     parts = page.split('/')
@@ -59,10 +65,10 @@ def cmd_status(a):
 def cmd_next(a):
     led = load()
     todo = [p for p in pages() if status_of(p, led) != 'verified']
-    todo.sort(key=lambda p: (risk(p), EXAM_ORDER.get(p.split('/')[0], 99), p))
+    todo.sort(key=lambda p: (risk(p), -recency(p), EXAM_ORDER.get(p.split('/')[0], 99), p))
     for p in todo[:a.n]:
         print(f'\n{p}  [{status_of(p, led)}, risk {risk(p)}]')
-        for s in sources(p)[:8]: print(f'    {s}')
+        for s in sources(p): print(f'    {s}')
 
 def cmd_sources(a):
     for s in sources(a.page): print(s)

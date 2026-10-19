@@ -74,7 +74,7 @@ Three language choices:
 | **Textual conventions** | **2 marks:** a **formal opening and a formal closure** (1 mark for one) |
 
 ### Model
-**Email B** in the [model responses](/spanish/practice#exam-format-emails-200-300-words-based-on-the-2024-and-2025-section-3-tasks) answers exactly this task. It opens with *Estimados señores*, closes with *Atentamente*, gives each bullet a paragraph, and uses preterite, imperfect, conditional, `si` clauses and a question. Write your own version, then check:
+**Email B** in the [model responses](/spanish/practice#exam-format-emails-200–300-words-based-on-the-2024-and-2025-section-3-tasks) answers exactly this task. It opens with *Estimados señores*, closes with *Atentamente*, gives each bullet a paragraph, and uses preterite, imperfect, conditional, `si` clauses and a question. Write your own version, then check:
 - [ ] Formal opening and closing
 - [ ] Bullet 1: thanks, with details of the food (variety, a favourite dish)
 - [ ] Bullet 2: concrete suggestions for young people (conditional or *podrían*)

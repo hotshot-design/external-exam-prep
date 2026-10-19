@@ -14,7 +14,7 @@ Wording and line numbers differ slightly between editions (Folger, Arden, Pengui
 ## Iago – deception and manipulation
 
 ### "I am not what I am." (1.1)
-- **Context:** end of Iago's opening scene; he explains he serves Othello only for his own ends.
+- **Context:** Iago's speech to Roderigo in the opening scene; he explains he serves Othello only for his own ends.
 - **Technique:** *inversion of scripture* (God's "I am that I am", Exodus); *paradox*; direct address in a confiding tone.
 - **Effect:** announces him as a **Vice figure** from morality plays; the audience is told early, creating **dramatic irony** for the rest of the play.
 - **Themes:** appearance vs reality, identity, evil.

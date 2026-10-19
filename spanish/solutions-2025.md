@@ -90,7 +90,7 @@ The sample is a friendly email (*¡Hola, Profe!*, *Jacob*). What it does, in ord
 **What to copy:** a **wide range of tenses** (past imperfect, preterite, present perfect `he notado`, future `continuaré`, conditional `me gustaría`, subjunctive `espero que… abra`), natural linkers (*De hecho*, *sin embargo*, *Últimamente*, *Aunque*), exclamations, and a close that returns to the opening idea of thanks.
 
 ### Your own model
-See **Email A** in the [model responses](/spanish/practice#exam-format-emails-200-300-words-based-on-the-2024-and-2025-section-3-tasks), which addresses the same three bullets in a formal register. Check your version against the table above: greeting, sign-off, each bullet developed, three or more tenses, and 200–300 words.
+See **Email A** in the [model responses](/spanish/practice#exam-format-emails-200–300-words-based-on-the-2024-and-2025-section-3-tasks), which addresses the same three bullets in a formal register. Check your version against the table above: greeting, sign-off, each bullet developed, three or more tenses, and 200–300 words.
 
 ## What the 2025 guide rewards
 | Wording | What to do |

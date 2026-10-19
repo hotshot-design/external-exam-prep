@@ -78,7 +78,7 @@ Three criteria, each with a scale from "identifies" up to "authoritative":
 
 **Still unasked for Othello (likely candidates):** the ending and Othello as a tragic hero, trust, guilt/remorse, race, appearance versus reality, manipulation, masculinity and honour, love, gender and power, justice and revenge, and the characters Desdemona, Iago, Cassio, Brabantio and Bianca, plus Cyprus versus Venice.
 
-**Marking guide, 2020–25:** the structure has not changed: Knowledge application (18), Organisation and development (16) and Textual features (11) make 45. The one notable wording shift is Criterion 1 level 5, from "a **purposeful** interpretation" (2020–22) to "a **considered** interpretation" (2025); level 6 is "**authoritative**" throughout. Since 2022 the thesis must "**respond to the question/task**", and in 2025 arguments must "**strengthen** the thesis across the response". In spelling, "mostly spelt correctly" allows occasional minor lapses.
+**Marking guide, 2020–25:** the structure has not changed: Knowledge application (18), Organisation and development (16) and Textual features (11) make 45. The one notable wording shift is Criterion 1 level 5, from "a **purposeful** interpretation" (2020–23) to "a **considered** interpretation" (2024–25); level 6 is "**authoritative**" throughout. Since 2022 the thesis must "**respond to the question/task**" and arguments must "**strengthen** the thesis across the response" (neither phrase is in the 2020 guide). In spelling, "mostly spelt correctly" allows occasional minor lapses.
 
 ## Use the past prompts as practice
 Plan each in 15 minutes using the [essay plans](/english/essay-plans) and [quote bank](/english/quotes), then pick one to write in full.

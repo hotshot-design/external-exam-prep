@@ -64,7 +64,7 @@ The QCAA English materials in the [paper files](/english/papers) contain the que
 **Model paragraph (paragraph 3):**
 > For Othello, reputation is not only social but racial. His image of Desdemona's name as once "fresh / As Dian's visage" and now "begrimed and black / As mine own face" fuses her honour with his own colour, revealing how deeply he has absorbed Venice's prejudices. As an outsider, whose position depends on his reputation as a general, he cannot tolerate the idea that his name might be diminished by a faithless wife. Shakespeare then reverses this concern in the final scene, where Othello asks to be spoken of "as I am", trying to author his own reputation even as he confesses to murder. The audience is invited to pity a man so dependent on others' views, yet also to question whether such an appeal to posterity is another form of vanity.
 
-**Upgrade angle:** Iago's irony — he has "honest" as his reputation — shows reputation as **performance**, and Cassio's recovery of lieutenancy shows it can be repaired.
+**Upgrade angle:** Iago's irony — he has "honest" as his reputation — shows reputation as **performance**, and Cassio, dismissed in 2.3, is left to rule Cyprus at the end (5.2), which shows reputation can be repaired.
 
 ---
 
@@ -88,7 +88,7 @@ The QCAA English materials in the [paper files](/english/papers) contain the que
 ---
 
 ## Practise the wider pattern (2020–2025)
-Othello has only four real past prompts, so also practise the question types the other texts have faced: **"how does the ending invite the audience to view [protagonist]?"** (five texts in 2022), a **character's significance**, a **relationship**, a **symbol**, a **"To what extent do you agree?"** statement, and **"What point of view about [trust/loyalty/family] is communicated?"**. See the table of tragedy prompts adapted to Othello in [past papers analysis](/english/past-papers#_2020-2022-and-2023-papers-other-texts-as-othello-practice).
+Othello has only four real past prompts, so also practise the question types the other texts have faced: **"how does the ending invite the audience to view [protagonist]?"** (five texts in 2022), a **character's significance**, a **relationship**, a **symbol**, a **"To what extent do you agree?"** statement, and **"What point of view about [trust/loyalty/family] is communicated?"**. See the table of tragedy prompts adapted to Othello in [past papers analysis](/english/past-papers#_2020–2022-and-2023-papers-other-texts-as-othello-practice).
 
 ## Checklist for any past prompt
 - [ ] Thesis uses the prompt's key word (jealousy / handkerchief / reputation / Emilia)

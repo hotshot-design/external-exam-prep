@@ -104,6 +104,83 @@
   "notes": "Marks (2/6/9=17; report 2+4+8+8+2=24; total 41), question wording, guide samples, Kotter steps, all stimulus data (S1-S11 incl. rendered S2 graph) and syllabus criteria definitions verified. Fixed S2 financial claim: revenue had NOT fallen (about 2.5m since 2020); expenses rose and profit fell 0.5m->0.25m.",
   "result": "fixed"
  },
+ "english/checklist.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "1cd8423d46c9",
+  "notes": "Items consistent with syllabus (11 objectives), 2024-25 papers (800-1000 words, prompts) and the site.",
+  "result": "pass"
+ },
+ "english/essay-plans.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "2dc0bbab2980",
+  "notes": "Quotes and refs checked against reviewer's knowledge of the standard text (all accurate). Fixed: 'plan all seven prompts' (there are ten) and attributed 'motiveless malignity' to Coleridge.",
+  "result": "fixed"
+ },
+ "english/flashcards.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "dc68204f9e66",
+  "notes": "Exam facts and 2024-25 prompts verified against papers; quotes against reviewer's knowledge of the text. Fixed the 'three animal images' card, which counted 'thick-lips' (not an animal image); added 'the beast with two backs' (1.1).",
+  "result": "fixed"
+ },
+ "english/index.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "da6898b3af7f",
+  "notes": "Exam format, conditions, 11 objectives, Unit 4 name verified against syllabus p.48 (was cited as p.47; fixed). 45 marks/800-1000 words verified against 2024-25 response books.",
+  "result": "fixed"
+ },
+ "english/model-essay.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "083639da4d58",
+  "notes": "Essay was 763 words although the page says 'about 800-850' and the exam asks for 800-1000: added a sentence (now 816). Quotes checked against reviewer's knowledge of the text; reworded 'Emilia unknowingly supplies the handkerchief' (she hands it over knowingly but not knowing Iago's purpose). Objective map matches the syllabus's 11 objectives.",
+  "result": "fixed"
+ },
+ "english/notes.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "03abbe79bfd8",
+  "notes": "Exam format matches 2024-25 papers and syllabus; quotes and act/scene refs checked against reviewer's knowledge of the standard text (no copy in folder); plot summary accurate.",
+  "result": "pass"
+ },
+ "english/past-papers.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "d5d306d3b7a5",
+  "notes": "All 2020-2025 question books read: Othello only 2024-25; prompts, 2024 (b) object/setting list, 2025 characters, 'ending' count 2022 (5/8), past tragedy prompts all verified. Guides: 18/16/11, 'purposeful' wording is 2020-23 (2023 guide image-only, rendered p.3), 'considered' 2024-25; 'responds to the question/task' and 'strengthen' appear from 2022, not 2025. Fixed both.",
+  "result": "fixed"
+ },
+ "english/past-prompts.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "6d022fe69cab",
+  "notes": "Prompts verified against 2024/2025 question books; quotes and act/scene refs checked against reviewer's knowledge of the standard text. Fixed: Cassio does not 'recover his lieutenancy' (he is left to rule Cyprus, 5.2); broken #anchor to past-papers.",
+  "result": "fixed"
+ },
+ "english/quick-reference.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "204f2bc903de",
+  "notes": "Exam format matches 2024-25 papers and syllabus; quotes and act/scene refs checked against reviewer's knowledge of the standard text (no copy in folder); plot summary accurate.",
+  "result": "pass"
+ },
+ "english/quiz-quotes.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "278fa541e871",
+  "notes": "All 21 keyed answers (speakers, scenes, techniques) correct against the reviewer's knowledge of the standard text; no exam-skills items.",
+  "result": "pass"
+ },
+ "english/quotes.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "60b5dc13dd12",
+  "notes": "No copy of Othello in the folder: all 25 quotations and act/scene references checked against the reviewer's knowledge of the standard (Folger/Arden) text, so confirm against the class edition. All accurate. Fixed context for 'I am not what I am' (mid-scene speech, not end of scene).",
+  "result": "fixed"
+ },
  "spanish/checklist.md": {
   "by": "claude",
   "date": "2026-10-19",
@@ -170,16 +247,16 @@
  "spanish/solutions-2024.md": {
   "by": "claude",
   "date": "2026-10-19",
-  "hash": "842cfb2a2f74",
-  "notes": "Marks (15/17/21=53), question wording, guide samples and stimulus quotes verified. Fixed Q3 context: removed unsupported 'blog' (stimulus is a first-person reflection).",
+  "hash": "4d37a60af7b4",
+  "notes": "Re-recorded after fixing a broken #anchor to the practice page (en dash in heading id); content previously verified.",
   "result": "fixed"
  },
  "spanish/solutions-2025.md": {
   "by": "claude",
   "date": "2026-10-19",
-  "hash": "b256667a4e44",
-  "notes": "All questions, marks (14/17/21=52), guide sample, criteria and stimulus quotes checked against 2025 question book, stimulus book and marking guide; Section 3 sample annotation verified line by line.",
-  "result": "pass"
+  "hash": "d962d8253302",
+  "notes": "Re-recorded after fixing a broken #anchor to the practice page (en dash in heading id); content previously verified.",
+  "result": "fixed"
  },
  "spanish/verbs.md": {
   "by": "claude",

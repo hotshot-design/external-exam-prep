@@ -136,7 +136,7 @@ The exam question is **unseen**. These plans show how to turn a prompt into a th
 **Prompt:** *Analyse the significance of Iago's soliloquies in the play.*
 **Thesis:** The soliloquies make the audience complicit, expose the instability of Iago's motives, and create the dramatic irony that drives the tragedy.
 1. **Complicity:** direct address and plans ("I am not what I am", 1.1; "I hate the Moor", 1.3).
-2. **Motive hunting:** shifting reasons (promotion, rumour of Emilia's infidelity, Cassio) suggest "motiveless malignity".
+2. **Motive hunting:** shifting reasons (promotion, rumour of Emilia's infidelity, Cassio) suggest what Coleridge called "motiveless malignity".
 3. **Dramatic irony:** the audience watches Othello trust "honest Iago".
 4. **Structure:** they thin out as Iago's control grows; his silence at the end ("Demand me nothing", 5.2).
 
@@ -147,6 +147,6 @@ The exam question is **unseen**. These plans show how to turn a prompt into a th
 > Through *[restate three ideas as one synthesis]*, Shakespeare demonstrates that *[final judgement]*. The play therefore **[effect on the audience / relevance to values]**, leaving us to consider *[the lasting question]*.
 
 ## Timed practice
-1. Plan all seven prompts in **15 minutes each** (use only this page's structure, not the content).
+1. Plan all ten prompts in **15 minutes each** (use only this page's structure, not the content).
 2. Choose two plans and practise them separately. For each, plan for 15 minutes and write for 120 (**800–1000 words**). In the exam you write **one** essay.
 3. Mark against the objectives on the [overview](/english/): analysis of perspectives and representations, values and attitudes, stylistic devices, structure, cohesion, language.

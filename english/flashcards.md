@@ -23,7 +23,7 @@ const cards = [
   { q: "Where is the play set in Acts 1 and 2–5?", a: "Act 1 Venice (order); Acts 2–5 Cyprus (disorder, war outpost)." },
   { q: "Who says 'Reputation, reputation, reputation!'?", a: "Cassio, 2.3, after being dismissed." },
   { q: "What does Emilia's speech in 4.3 argue?", a: "Husbands are as culpable as wives; women have the same senses and desires; critiques double standards." },
-  { q: "Name three animal images used about Othello.", a: "Iago: 'old black ram', 'Barbary horse' (1.1); Roderigo: 'thick-lips' (1.1). Dehumanising racist imagery in Act 1." },
+  { q: "Name three animal images used about Othello.", a: "Iago: 'old black ram', 'Barbary horse' and 'the beast with two backs' (1.1). Dehumanising racist imagery in Act 1. (Roderigo's 'thick-lips' is a racist insult, not an animal image.)" },
   { q: "Why does Othello's language change at 4.1?", a: "Verse collapses into fragmented prose and exclamations, reflecting his mental breakdown." },
   { q: "What's the structure of a strong body paragraph?", a: "Topic sentence → short embedded quote → analysis of technique and effect → link to values/context → link to thesis." },
   { q: "What does 'invite audiences to take up positions' mean?", a: "How the text shapes the audience's sympathies and judgments (e.g. complicity with Iago via soliloquy)." },

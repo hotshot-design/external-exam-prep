@@ -6,7 +6,7 @@
 **Quiz:** [Quotes and techniques](/english/quiz-quotes) · [All quizzes](/quizzes)
 :::
 
-## Exam format (QCAA General English syllabus v1.3, p.47)
+## Exam format (QCAA General English syllabus v1.3, p.48)
 | | |
 |---|---|
 | Type | External examination — extended response (**25%** of final mark) |
