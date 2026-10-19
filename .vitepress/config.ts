@@ -16,7 +16,9 @@ const subject = (
   items: [
     { text: 'Overview & exam format', link: `/${base}/` },
     { text: 'Quick reference (exam day)', link: `/${base}/quick-reference` },
-    ...(g.quizzes?.length ? [{ text: 'Quizzes', collapsed: false, items: g.quizzes }] : []),
+    ...(g.quizzes?.length === 1
+      ? [{ text: 'Quiz', link: g.quizzes[0].link }]
+      : g.quizzes?.length ? [{ text: 'Quizzes', collapsed: false, items: g.quizzes }] : []),
     {
       text: 'Learn',
       collapsed: true,
