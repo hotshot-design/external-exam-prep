@@ -132,11 +132,11 @@ Link examples to a scenario: encryption at rest and in transit supports **APP 11
 
 ### JSON and pseudocode: average, count and age
 ```
-READ jsonData INTO players
-FOR each player IN players DO
+READ jsonData INTO movies
+FOR each movie IN movies DO
   SET totalRating = 0
   SET numberOfReviews = 0
-  FOR each review IN player["reviews"] DO
+  FOR each review IN movie["reviews"] DO
     totalRating = totalRating + review["rating"]
     numberOfReviews = numberOfReviews + 1
   ENDFOR
@@ -145,7 +145,7 @@ FOR each player IN players DO
   ELSE
     averageRating = "No ratings"
   ENDIF
-  OUTPUT player["title"], averageRating
+  OUTPUT movie["title"], averageRating
 ENDFOR
 ```
 *Percentage:* `percentWon = gamesWon / gamesPlayed * 100`. *Age:* `age = currentYear - birthYear`, then subtract 1 if the birthday has not yet happened this year. **Desk check** = a table with one row per step and one column per variable.

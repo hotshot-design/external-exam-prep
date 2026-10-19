@@ -3,7 +3,6 @@ export const themes = [
     id: 'security',
     title: 'Security and encryption',
     words: [
-      ['Digital signature', 'An encrypted value that authenticates who sent the data and that it has not changed.'],
       ['Encryption', 'Converting data into unreadable form using an algorithm and key.'],
       ['Decryption', 'Converting ciphertext back to plaintext.'],
       ['Plaintext / ciphertext', 'Readable data / encrypted data.'],

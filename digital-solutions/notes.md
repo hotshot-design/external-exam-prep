@@ -46,7 +46,7 @@ Structure follows Unit 4 subject matter (syllabus pp.30–33). Add your teacher'
 - User interface skills: symbolise ideas with sketches, diagrams or mock-ups, then evaluate and recommend using the useability principles.
 - **Naming conventions, data formats and structures.**
 
-## Topic 2: Complex problems and solution requirements
+## Topic 2: Complex digital data exchange problems and solution requirements
 
 <Diagram name="digital-dfd-example" caption="DFD example" />
 

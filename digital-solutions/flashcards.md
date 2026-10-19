@@ -3,7 +3,7 @@
 <script setup>
 const cards = [
   { q: "Debugging pseudocode (2023)?", a: "Find each error line, write the corrected line, and justify why it fixes the logic; avoid introducing new errors." },
-  { q: "Data formats seen in exams?", a: "XML (2023), JSON (2020–22, 2024–25), SQL tables; know how to symbolise each." },
+  { q: "Data formats seen in exams?", a: "JSON (every paper 2020–25), XML (2023 Q15), SQL tables; know how to symbolise each." },
   { q: "VPN: what does it do?", a: "Encrypts traffic through a tunnel to protect data on untrusted networks (e.g. public Wi-Fi)." },
   { q: "HTTP vs HTTPS (2022)?", a: "HTTP sends plain text with no encryption; HTTPS uses TLS and certificates to encrypt data and verify the server." },
   { q: "Assignment, condition, iteration (2022)?", a: "Assignment: store a value in a variable. Condition: a comparison giving true/false. Iteration: statements repeated while a condition is met." },

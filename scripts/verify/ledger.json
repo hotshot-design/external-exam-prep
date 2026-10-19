@@ -104,6 +104,111 @@
   "notes": "Marks (2/6/9=17; report 2+4+8+8+2=24; total 41), question wording, guide samples, Kotter steps, all stimulus data (S1-S11 incl. rendered S2 graph) and syllabus criteria definitions verified. Fixed S2 financial claim: revenue had NOT fallen (about 2.5m since 2020); expenses rose and profit fell 0.5m->0.25m.",
   "result": "fixed"
  },
+ "digital-solutions/checklist.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "ba1182df20cf",
+  "notes": "Items match Unit 4 subject matter and exam pattern.",
+  "result": "pass"
+ },
+ "digital-solutions/flashcards.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "5e601322363a",
+  "notes": "All cards checked against syllabus and 2020-25 guides. Fixed the data-formats card: JSON appears in every paper including 2023, not just 2020-22 and 2024-25.",
+  "result": "fixed"
+ },
+ "digital-solutions/glossary.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "7bccfebf043e",
+  "notes": "~150 terms checked against Unit 4 subject matter (encryption list, network principles, constructs, SQL, DFD, useability and visual communication lists). Removed a duplicate 'Digital signature' entry.",
+  "result": "fixed"
+ },
+ "digital-solutions/index.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "88ae0ed7890b",
+  "notes": "Format, 25%, 5+120 min, calculator, objectives 1,2,3,5,7 and Unit 4 verified against syllabus p.47 (cited as pp.46-47; the section is on p.47 only). 66/67 marks confirmed from 2024/2025 books.",
+  "result": "fixed"
+ },
+ "digital-solutions/notes.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "ceb1385cb45d",
+  "notes": "Every bullet checked against Unit 4 subject matter (syllabus pp.29-33): encryption list, network metrics/principles, REST/JSON/XML, ciphers, DFD conventions, constructs, five features, good practice, operators, SQL list, emerging tech. Fixed Topic 2 title to the syllabus name.",
+  "result": "fixed"
+ },
+ "digital-solutions/past-papers.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "730944d62d6a",
+  "notes": "Totals and section/question marks for 2020-25 recounted from all question books (72/72/69/69/66/67); MC keys for 2020-23 and 2025 match the guides (2023 from the rendered image-only guide); 15-min printed perusal vs 5-min syllabus/timetable note verified; 2022 Q15 admin-only functions and stores match the guide.",
+  "result": "pass"
+ },
+ "digital-solutions/practice.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "0ca06b39d84a",
+  "notes": "All worked examples recomputed (KHOOR, KXRKGI, trace 21, DIV/MOD, DCW, XOR 1100, EQFG, 26^6); APP list 1-13 correct; SQL valid; DFD follows syllabus conventions. Renamed 'player' to 'movie' in the movie-ratings pseudocode for clarity.",
+  "result": "fixed"
+ },
+ "digital-solutions/quick-reference.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "2a2c3eea02d0",
+  "notes": "Useability principles, visual elements/principles (syllabus p.17), Gane-Sarson conventions and D/M/T stores (syllabus pp.12-13), APP names, CIA and cipher facts, marks/timings checked.",
+  "result": "pass"
+ },
+ "digital-solutions/quiz-concepts.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "17f8badf2552",
+  "notes": "APP names 1-13, useability principles and visual elements/principles (syllabus p.17), DFD rules and store types (syllabus pp.12-13), cipher answers recomputed; distractors confirmed wrong.",
+  "result": "pass"
+ },
+ "digital-solutions/quiz-past-mc.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "e492381af8cd",
+  "notes": "All 34 items: keyed option mapped to the paper option letter and compared with the 2020-25 guide keys by script (2023 key read from the image-only guide p.3); remaining mismatches checked by eye, all correct.",
+  "result": "pass"
+ },
+ "digital-solutions/quiz-short-response-2020-21.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "a668ead121a2",
+  "notes": "All items checked against the guides and question books; cipher/one-time-pad/Caesar answers recomputed (h, z, eqnvz, GUESS, ABC, 3 blocks, AES 128); the two check.py guide-anchor warnings are false positives (2020 Q11 is on p.4, 2022 Q13 on p.5).",
+  "result": "pass"
+ },
+ "digital-solutions/quiz-short-response-2022-23.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "a5ee708738d4",
+  "notes": "All items checked against the guides and question books; cipher/one-time-pad/Caesar answers recomputed (h, z, eqnvz, GUESS, ABC, 3 blocks, AES 128); the two check.py guide-anchor warnings are false positives (2020 Q11 is on p.4, 2022 Q13 on p.5).",
+  "result": "pass"
+ },
+ "digital-solutions/quiz-short-response.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "a7cdeeff3c88",
+  "notes": "All 17 items checked against the 2024/2025 guides and books; numeric answers recomputed (40, 94.8, 5, 1.67, 4) from the JSON/stimulus data.",
+  "result": "pass"
+ },
+ "digital-solutions/solutions-2024.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "b846c09e0081",
+  "notes": "MC keys, marks (10/36/20 = 66) and every criterion and sample (APPs 1-3, CIA risks, Q12 pseudocode, Q13 function choice, Q14 DFD criteria, Q15a-e) checked against the 2024 guide and question book.",
+  "result": "pass"
+ },
+ "digital-solutions/solutions-2025.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "3bd9c896e806",
+  "notes": "MC keys, all marks (10/36/21 = 67) and every criterion checked against the 2025 guide; desk-check values, library function names and pothole filenames checked against the stimulus; model answers consistent with the guide samples.",
+  "result": "pass"
+ },
  "english/checklist.md": {
   "by": "claude",
   "date": "2026-10-19",
