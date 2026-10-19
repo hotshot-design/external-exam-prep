@@ -2,6 +2,10 @@
 
 **Exam:** Tue 27 Oct, AM · [Timetable](/timetable)
 
+::: tip Test yourself
+**Quizzes:** [Quotes and techniques](/english/quiz-quotes) · [All quizzes](/quizzes)
+:::
+
 ## Exam format (QCAA General English syllabus v1.3, p.47)
 | | |
 |---|---|

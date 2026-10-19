@@ -2,6 +2,10 @@
 
 **Exam:** Wed 28 Oct, PM · [Timetable](/timetable)
 
+::: tip Test yourself
+**Quizzes:** [Grammar](/spanish/quiz-grammar) · [Vocabulary](/spanish/quiz-vocab) · [All quizzes](/quizzes)
+:::
+
 ## Exam format (QCAA Spanish syllabus v1.3, pp.34–35)
 | | |
 |---|---|

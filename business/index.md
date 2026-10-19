@@ -2,6 +2,10 @@
 
 **Exam:** Tue 3 Nov, PM · [Timetable](/timetable)
 
+::: tip Test yourself
+**Quizzes:** [Theory](/business/quiz-theory) · [Case](/business/quiz-case) · [Short responses 2024–25](/business/quiz-short-response-2024-25) · [2022–23](/business/quiz-short-response-2022-23) · [2020–21](/business/quiz-short-response-2020-21) · [All quizzes](/quizzes)
+:::
+
 ## Exam format (QCAA Business syllabus v1.3, p.45)
 | | |
 |---|---|

@@ -2,6 +2,10 @@
 
 **Exams:** Paper 1 Thu 5 Nov PM · Paper 2 Fri 6 Nov AM · [Timetable](/timetable)
 
+::: tip Test yourself
+**Quizzes:** [Past MC](/maths/quiz-past-mc) · [Calculation](/maths/quiz-methods) · [Short responses 2024–25](/maths/quiz-sr-2024-25) · [2021–22](/maths/quiz-sr-2021-22) · [2020](/maths/quiz-sr-2020) · [All quizzes](/quizzes)
+:::
+
 ## Exam format (QCAA General Mathematics syllabus v1.3, pp.42–44)
 | | Paper 1 | Paper 2 |
 |---|---|---|

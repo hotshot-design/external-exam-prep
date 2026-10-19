@@ -2,6 +2,10 @@
 
 **Exam:** Wed 4 Nov, AM · [Timetable](/timetable)
 
+::: tip Test yourself
+**Quizzes:** [Concepts](/film/quiz-concepts) · [Terminology](/film/quiz-terms) · [All quizzes](/quizzes)
+:::
+
 ## Exam format (QCAA Film, Television & New Media syllabus v1.4, p.40)
 | | |
 |---|---|
