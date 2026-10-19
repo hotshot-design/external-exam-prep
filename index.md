@@ -8,6 +8,10 @@ title: Year 12 Exam Hub
 
 <TodayPanel />
 
+## Exam calendar
+
+<ExamCalendar />
+
 ## Quick links
 
 - [Full timetable](/timetable) · [Study planner](/planner) · [Exam strategy](/strategy) · [All past papers](/past-papers) · [Quizzes](/quizzes)
