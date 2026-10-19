@@ -6,6 +6,8 @@
 **Quiz:** [Quotes and techniques](/english/quiz-quotes) · [All quizzes](/quizzes)
 :::
 
+**Read the play (free, public domain):** [Folger Shakespeare](https://www.folger.edu/explore/shakespeares-works/othello/read/) (act, scene and line numbers) · [Project Gutenberg](https://www.gutenberg.org/ebooks/1531) (download as EPUB, Kindle or plain text)
+
 ## Exam format (QCAA General English syllabus v1.3, p.48)
 | | |
 |---|---|

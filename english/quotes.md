@@ -1,7 +1,7 @@
 # Othello – quote analysis
 
 ::: warning Check against your edition
-Wording and line numbers differ slightly between editions (Folger, Arden, Penguin). Use the version your class studied, and keep quotes **short and embedded** in your sentences. Analysis below is general; add your teacher's readings.
+Wording and line numbers differ slightly between editions (Folger, Arden, Penguin). Use the version your class studied, and keep quotes **short and embedded** in your sentences. Free full texts: [Folger](https://www.folger.edu/explore/shakespeares-works/othello/read/) (with line numbers) and [Project Gutenberg](https://www.gutenberg.org/ebooks/1531). Every quote on this site has been checked against the Gutenberg text; Folger has "led by th' nose" and "He's done my office" where Gutenberg has "the nose" and "He has done". Analysis below is general; add your teacher's readings.
 :::
 
 ## How to use a quote (the formula)

@@ -231,10 +231,10 @@
   "result": "fixed"
  },
  "english/index.md": {
-  "by": "claude",
-  "date": "2026-10-19",
-  "hash": "da6898b3af7f",
-  "notes": "Exam format, conditions, 11 objectives, Unit 4 name verified against syllabus p.48 (was cited as p.47; fixed). 45 marks/800-1000 words verified against 2024-25 response books.",
+  "by": "claude-opus-5-5",
+  "date": "2026-10-20",
+  "hash": "28a4ce2dba0a",
+  "notes": "Added free Othello text links (Folger, Gutenberg #1531). All quotes on english/*.md checked against the Gutenberg text: all present; only modernised spelling and Folger/Gutenberg edition variants differ.",
   "result": "fixed"
  },
  "english/model-essay.md": {
@@ -280,10 +280,10 @@
   "result": "pass"
  },
  "english/quotes.md": {
-  "by": "claude",
-  "date": "2026-10-19",
-  "hash": "60b5dc13dd12",
-  "notes": "No copy of Othello in the folder: all 25 quotations and act/scene references checked against the reviewer's knowledge of the standard (Folger/Arden) text, so confirm against the class edition. All accurate. Fixed context for 'I am not what I am' (mid-scene speech, not end of scene).",
+  "by": "claude-opus-5-5",
+  "date": "2026-10-20",
+  "hash": "e18ee3788ceb",
+  "notes": "Added free Othello text links (Folger, Gutenberg #1531). All quotes on english/*.md checked against the Gutenberg text: all present; only modernised spelling and Folger/Gutenberg edition variants differ.",
   "result": "fixed"
  },
  "film/checklist.md": {
