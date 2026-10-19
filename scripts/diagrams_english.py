@@ -21,7 +21,7 @@ def arc():
     s.raw('<g transform="translate(0,40)">')
     pts = [(70, 220), (190, 190), (310, 120), (440, 70), (580, 190), (700, 270)]
     s.path("M 70 220 C 130 210 150 190 190 190 C 250 190 270 130 310 120 C 370 100 400 60 440 70 C 500 85 530 160 580 190 C 640 225 670 260 700 270", 'lnb')
-    for (x, y), t in zip(pts, ["Act 1\nVenice: marriage,\nIago's plan", "Act 2\nCyprus: Cassio\ndisgraced", "Act 3\nTemptation scene\nhandkerchief", "Act 3\nturning point:\n'Chaos is come again'", "Act 4\nprose collapse (4.1)\nstrikes Desdemona", "Act 5\nmurder, truth,\n'loved not wisely'"]):
+    for (x, y), t in zip(pts, ["Act 1\nVenice: marriage,\nIago's plan", "Act 2\nCyprus: Cassio\ndisgraced", "Act 3\nTemptation scene\nhandkerchief", "3.3 turning point:\n'Chaos is come again'", "Act 4\nprose collapse (4.1)\nstrikes Desdemona", "Act 5\nmurder, truth,\n'loved not wisely'"]):
         s.circle(x, y, 6, 'dot'); s.text(x, y + (46 if x in (190, 70, 310) else (-62 if x in (580,) else -52)) if x != 440 else y - 56, t, 't2', size=11)
     s.text(380, 315, "Rise → complication → crisis (3.3) → fall. Verse becomes fragmented prose as Othello breaks down.", 't2', size=12)
     s.raw('</g>')
@@ -39,7 +39,7 @@ def relationships():
         (x1, y1), (x2, y2) = P[a], P[b]
         d = math.hypot(x2 - x1, y2 - y1); ux, uy = (x2 - x1) / d, (y2 - y1) / d
         s.arrow(x1 + ux * 50, y1 + uy * 24, x2 - ux * 50, y2 - uy * 24, c)
-        s.text(x1 + (x2 - x1) * 0.5 + (0 if abs(x2 - x1) > 40 else 36), y1 + (y2 - y1) * 0.5 - 6, t, 't2', size=11)
+        s.text(x1 + (x2 - x1) * 0.5 + (0 if abs(x2 - x1) > 40 else (-44 if a == 'Iago' else 36)), y1 + (y2 - y1) * 0.5 - 6, t, 't2', size=11)
     for k, (x, y) in P.items(): s.box(x - 55, y - 20, 110, 40, k, cls[k], size=14, weight=700)
     s.text(380, 365, "Use relationships for 'significance of a character' questions: what does each link reveal?", 't2', size=12)
     return s.render("Network of character relationships in Othello"), "Main character relationships and what each reveals"

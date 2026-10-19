@@ -41,7 +41,7 @@ def dfd_example():
     store(560, 40, 160, "Authors", "D1"); store(560, 90, 160, "Titles", "D2"); store(560, 140, 160, "Topics", "D3")
     store(560, 215, 160, "Bookshelves", "M1")
     s.arrow(150, 135, 250, 85, 'arb'); s.text(170, 96, "keywords", 't2', size=11, anchor='middle')
-    s.arrow(250, 100, 150, 150, 'arb'); s.text(250, 140, "book IDs, status", 't2', size=11, anchor='end')
+    s.arrow(250, 100, 150, 150, 'arb'); s.text(236, 142, "IDs, status", 't2', size=11)
     s.arrow(150, 160, 250, 205, 'arb'); s.text(150, 207, "book ID", 't2', size=11, anchor='middle')
     s.arrow(250, 222, 150, 172, 'arb'); s.text(250, 190, "book", 't2', size=11, anchor='end')
     for y in (60, 110, 160): s.arrow(560, y, 420, 87, 'ar')
@@ -148,11 +148,11 @@ def xor():
 def useability():
     s = SVG('useability', 760, 340)
     s.title(380, 26, "Useability principles and visual communication (syllabus)")
-    pr = [("Accessibility", "usable by people\nwith different abilities", "boxb"), ("Effectiveness", "tasks completed\naccurately, completely", "boxg"), ("Safety", "design prevents\nerrors and harm", "boxr"),
-          ("Utility", "has the functions\nneeded; adapts to\ndifferent devices", "boxy"), ("Learnability", "new users learn\nit quickly", "boxi")]
+    pr = [("Accessibility", "usable by people\nwith different\nabilities", "boxb"), ("Effectiveness", "tasks completed\naccurately and\ncompletely", "boxg"), ("Safety", "design prevents\nerrors and\nharm", "boxr"),
+          ("Utility", "has the functions\nneeded; adapts to\ndifferent devices", "boxy"), ("Learnability", "new users\nlearn it\nquickly", "boxi")]
     for i, (t, d, cls) in enumerate(pr):
         x = 10 + i * 148
-        s.box(x, 50, 142, 40, t, cls, size=13, weight=700); s.box(x, 94, 142, 56, d, 'box', size=11, rx=6)
+        s.box(x, 50, 142, 40, t, cls, size=13, weight=700); s.box(x, 94, 142, 62, d, 'box', size=12, rx=6)
     s.box(20, 175, 340, 110, '', 'box'); s.text(190, 197, "Elements of visual communication", 'tb', size=13)
     s.text(190, 232, "space · line · colour · shape · texture\ntone · form · proportion · scale", 't', size=13)
     s.box(400, 175, 340, 110, '', 'box'); s.text(570, 197, "Principles of visual communication", 'tg', size=13)

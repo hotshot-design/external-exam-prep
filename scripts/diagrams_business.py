@@ -33,7 +33,7 @@ def lewin():
         s.box(x, 55, 200, 40, h, cls, tcls=tcls, weight=700)
         s.box(x, 105, 200, 130, '', 'box')
         for j, it in enumerate(items):
-            s.text(x + 100, 132 + j * 38, it.replace(' (', '\n('), 't', size=13)
+            s.text(x + 100, 132 + j * 38, (it.replace(' (', '\n(') if '(' in it else (it[:it.rfind(' ', 0, len(it) // 2 + 4)] + '\n' + it[it.rfind(' ', 0, len(it) // 2 + 4) + 1:] if len(it) > 24 else it)), 't', size=12)
         if i < 2: s.arrow(x + 200, 75, x + 240, 75)
     s.text(380, 270, "Refreeze embeds the change so it becomes normal operations; without it old behaviour can return (2023 guide).", 't2', size=12)
     return s.render("Lewin's unfreeze, change, refreeze stages with example actions"), "Lewin's stages with the actions the exam guides credit"
@@ -104,7 +104,7 @@ def life_cycle():
         s.text(x, 335, "", 't2')
     s.text(95, 268, "Seed", 't', size=13); s.text(170, 232, "Start-up", 't', size=13); s.text(250, 150, "Growth", 't', size=13); s.text(380, 75, "Maturity", 't', size=13)
     s.line(420, 55, 420, 305, 'lnl', dash=True)
-    s.text(560, 62, "Renewal (transformation)", 'tg', size=13, anchor='middle')
+    s.text(535, 42, "Renewal (transformation)", 'tg', size=13, anchor='middle')
     s.text(570, 126, "Steady state", 'ty', size=13)
     s.text(570, 224, "Decline", 'tr', size=13)
     s.text(560, 336, "POST-MATURITY: this exam covers renewal", 'tb', size=12)
@@ -118,7 +118,7 @@ def report():
     y = 55
     for t, m, cls, f in rows:
         s.box(30, y, 470, 40, t, 'box', size=13, rx=6)
-        s.box(510, y, 40 + 190 * f, 40, f"{m} marks" if m.isdigit() else m, cls, size=13, rx=6)
+        s.box(510, y, 40 + 170 * f, 40, f"{m} marks" if m.isdigit() else m, cls, size=13, rx=6)
         y += 50
     s.text(380, 385, "16 of 24 marks are for synthesising (3) and evaluating (4). Keep the SWOT short. 400–600 words.", 't2', size=12)
     return s.render("Business report structure with marks per section"), "Where the marks sit in the business report"

@@ -52,7 +52,7 @@ def marking():
     for i, (t, m, cls) in enumerate(rows):
         y = 55 + i * 55
         s.text(20, y + 24, t, 't', anchor='start', size=13)
-        s.box(380, y, 20 * m + 20, 38, f"{m}", cls, size=14, weight=700, rx=6)
+        s.box(415, y, 20 * m + 20, 38, f"{m}", cls, size=14, weight=700, rx=6)
     s.text(380, 290, "Analysing and appraising are 23 of the 32 marks: aim for interrelationships and a clear verdict.", 't2', size=12)
     return s.render("Bar chart of the marks for each Film marking criterion"), "Where the film marks sit"
 

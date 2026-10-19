@@ -2,12 +2,12 @@ import math, itertools
 from svgkit import SVG
 
 def earth():
-    s = SVG('earth', 760, 340)
+    s = SVG('earth', 760, 352)
     s.title(380, 26, "Earth geometry: latitude, longitude and distance")
     cx, cy, r = 170, 185, 120
     s.circle(cx, cy, r, 'box')
     s.line(cx - r, cy, cx + r, cy, 'ln'); s.text(cx + r + 6, cy + 4, "equator", 't2', anchor='start', size=11)
-    s.text(cx, cy - r - 10, "N", 't2'); s.text(cx, cy + r + 18, "S", 't2')
+    s.text(cx, cy - r - 10, "N", 't2'); s.text(cx, cy + r + 17, "S", 't2')
     for lat, lab in [(-27, "27° S"), (-37, "37° S")]:
         a = math.radians(-lat)  # south = below equator
         x, y = cx + r * math.cos(a), cy + r * math.sin(a)
@@ -15,7 +15,7 @@ def earth():
     s.path(f"M {cx+60} {cy} A 60 60 0 0 1 {cx+60*math.cos(math.radians(27))} {cy+60*math.sin(math.radians(27))}", 'lng')
     s.path(f"M {cx+90*math.cos(math.radians(27))} {cy+90*math.sin(math.radians(27))} A 90 90 0 0 1 {cx+90*math.cos(math.radians(37))} {cy+90*math.sin(math.radians(37))}", 'lnr')
     s.text(cx + 40, cy + 70, "10°", 'tr', size=13); s.text(cx + 68, cy + 22, "27°", 'tg', size=12)
-    s.text(170, 330, "side view along one meridian", 't2', size=11)
+    s.text(170, 344, "side view along one meridian", 't2', size=11)
     s.box(360, 55, 370, 80, '', 'boxb'); s.text(545, 78, "Same meridian (north–south)", 'tb', size=14)
     s.text(545, 104, "D = 111.2 × angular distance", 't', size=14); s.text(545, 124, "27° S to 37° S: 10° → 1112 km", 't2', size=12)
     s.box(360, 145, 370, 80, '', 'boxg'); s.text(545, 168, "Same parallel (east–west)", 'tg', size=14)
@@ -121,8 +121,8 @@ def time_series():
     s.line(x0 + 30, y0 - 10 - 70 * 1.1, x0 + 30 + 11 * 52, y0 - 10 - (70 + 66) * 1.1, 'lnb', dash=True)
     s.poly(pts, 'lnr')
     for (x, y) in pts: s.circle(x, y, 4, 'dotr')
-    s.text(x0 + 560, y0 - 10 - 118 * 1.1 - 20, "trend (long-term direction)", 'tb', size=12)
-    s.text(x0 + 100, y0 - 215, "seasonality: the pattern repeats\nevery year (4 quarters)", 'tr', size=12)
+    s.text(x0 + 500, y0 - 40, "dashed line: trend (long-term direction)", 'tb', size=12)
+    s.text(x0 + 215, y0 - 215, "seasonality: the pattern repeats\nevery year (4 quarters)", 'tr', size=12)
     s.box(110, 318, 540, 56, '', 'box', rx=6)
     s.text(380, 340, "seasonal index = season ÷ that year's average (averaged over years)", 't', size=12)
     s.text(380, 360, "deseasonalised = actual ÷ index. The indices sum to the number of seasons.", 't2', size=11)
@@ -155,7 +155,7 @@ def reducing_balance():
     for _ in range(4): bal.append(bal[-1] * 1.0045 - 557)
     x0, y0, w, h = 60, 285, 440, 215
     _axes(s, x0, y0, w, h, "month n", "balance ($)")
-    pts = [(x0 + 40 + i * 100, y0 - 25 - (b - 22600) / 1500 * 175) for i, b in enumerate(bal)]
+    pts = [(x0 + 40 + i * 100, y0 - 35 - (b - 22100) / 1600 * 148) for i, b in enumerate(bal)]
     s.poly(pts, 'lnb')
     for i, (x, y) in enumerate(pts):
         s.circle(x, y, 5, 'dot')
@@ -174,7 +174,8 @@ def _graph(s, nodes, edges, hl=(), lab=True, r=17):
     for (a, b, wt) in edges:
         (x1, y1), (x2, y2) = nodes[a], nodes[b]
         cls = 'lnb' if (a, b) in hl or (b, a) in hl else 'ln'
-        s.line(x1, y1, x2, y2, cls)
+        d = math.hypot(x2 - x1, y2 - y1) or 1; ux, uy = (x2 - x1) / d, (y2 - y1) / d
+        s.line(x1 + ux * r, y1 + uy * r, x2 - ux * r, y2 - uy * r, cls)
         if lab:
             mx, my = (x1 + x2) / 2, (y1 + y2) / 2
             s.box(mx - 13, my - 10, 26, 20, str(wt), 'box', rx=4, size=12)
