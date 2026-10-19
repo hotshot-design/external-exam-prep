@@ -54,7 +54,6 @@ explanation: 7.186% (Option 2: 7.016%, so Option 1 is better). (QCAA 2020 P1 Q25
 
 :::quiz
 question: A bird population falls 17% a year from 483 at n = 1. What is the population at the start of 2021 (n = 6, nearest bird)?
-answer-input: $190
 answer-input: 190
 explanation: 483 × 0.83⁵ = 190.3. (QCAA 2020 P1 Q26 — [Question paper, p.14](/maths/papers/snr_maths_general_20_ea_p1_question_response.pdf#page=14) · [Marking guide](/maths/papers/snr_maths_general_20_ea_mark_guide_pub.pdf)) · [Worked solution](/maths/solutions-2020#q26-5-marks-geometric-decay-model)
 :::
@@ -108,5 +107,7 @@ answer-input: $1999.28
 answer-input: 1 999.28
 answer-input: 1,999.28
 answer-input: 1999.28
-explanation: 1999.28. (QCAA 2020 P2 Q7 — [Question paper, p.12](/maths/papers/snr_maths_general_20_ea_p2_question_response.pdf#page=12) · [Marking guide](/maths/papers/snr_maths_general_20_ea_mark_guide_pub.pdf)) · [Worked solution](/maths/solutions-2020#q7-7-marks-annuity-savings-to-buy-a-perpetuity-multi-topic)
+answer-input: 1999.29
+answer-input: $1999.29
+explanation: 750 000 ÷ 375.135 = 1999.28 (the guide writes $1999.29, rounding up; both accepted). (QCAA 2020 P2 Q7 — [Question paper, p.12](/maths/papers/snr_maths_general_20_ea_p2_question_response.pdf#page=12) · [Marking guide](/maths/papers/snr_maths_general_20_ea_mark_guide_pub.pdf)) · [Worked solution](/maths/solutions-2020#q7-7-marks-annuity-savings-to-buy-a-perpetuity-multi-topic)
 :::

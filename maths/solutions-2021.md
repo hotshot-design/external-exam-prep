@@ -33,7 +33,7 @@ b) The points rise then fall in a curve: **non-linear** form (1) and **strong** 
 
 #### Q17 (4 marks) Reducing-balance loan repayment
 i = 0.048 ÷ 12 = 0.004, n = 25 × 12 = 300 (1).
-\$720\,000 = M \times (1 - 1.004^{-300}) \div 0.004 = M \times 174.520\$… (1), so M = 4125.578… (1).
+$720\,000 = M \times (1 - 1.004^{-300}) \div 0.004 = M \times 174.520\ldots$ (1), so M = 4125.578… (1).
 **\$4126 per month** to the nearest dollar (1).
 
 #### Q18 (4 marks) Least-squares line and forecast
@@ -65,7 +65,7 @@ D = 111.2 × cos 37.25° × 6.75 (1) = 597.5 km (1), so **about 600 km** to the 
 
 #### Q22 (4 marks) Reducing-balance loan: balance after 2 months
 i = 0.048 ÷ 12 = 0.004, r = 1.004 (1).
-$A_{1} = 1.004 \times 32\,000 - 278 = 31\,850 (1)$. $A_{2} = 1.004 \times 31\,850 - 278 =$ **\$31 699.40** (1 + 1).
+$A_{1} = 1.004 \times 32\,000 - 278 = 31\,850$ (1). $A_{2} = 1.004 \times 31\,850 - 278 =$ **\$31 699.40** (1 + 1).
 Annuity-formula check: $32\,000 \times 1.004^{2} - 278 \times (1.004^{2} - 1)/0.004 = 31\,699.40$.
 
 #### Q23 (4 marks) Flow network: valid cuts 📐
@@ -109,8 +109,8 @@ Total = 66 639.94 + 10 743.09 = 77 383.03 ≈ **\$77 383** (1).
 Let n = years since 2019, so 2020 is n = 1.
 **Model 1 (geometric):** $t_{1} = 250$, and 2038 is n = 19 with value 2750. $2750 = 250 \times r^{18}$, so $r^{18} = 11$ and **r = 1.1425**. $t_{n} = 250 \times 1.1425^{n-1}$ (2 marks).
 **Model 2 (arithmetic):** the line starts at \$0 in 2020 with d = 126: **$t_{n} = 126(n - 1)$** (1).
-2030 is n = 11: Model 1 $= 250 \times 1.1425^{10} =$ **\$947.31**; Model 2 = 126 × 10 = **\$1260** (1).
-Difference = **\$313** (Model 2 is higher) (1). Logical organisation (1).
+2030 is n = 11: Model 1 $= 250 \times 1.1425^{10} =$ **\$947.33** (the guide's value, using r rounded to 1.1425; the unrounded r gives 947.31); Model 2 = 126 × 10 = **\$1260** (1).
+Difference = 1260 − 947.33 = 312.67 ≈ **\$313** (Model 2 is higher) (1). Logical organisation (1).
 
 #### Q5 (6 marks) Rebuild a least-squares line from r, standard deviations and a residual
 Given: r = 0.875, s_x = 4 (age), s_y = 6, the 31-year-old has y = 119 and the residual plot shows a residual of −0.75 at age 31.

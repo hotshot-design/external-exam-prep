@@ -22,7 +22,7 @@ export const themes = [
       ['Interpolation', 'Predicting inside the range of the data; more reliable.'],
       ['Extrapolation', 'Predicting outside the range of the data; risky.'],
       ['Causation', 'One variable directly causes change in the other.'],
-      ['Confounding variable', 'A third variable that influences both variables.'],
+      ['Confounding variable', 'A variable other than the explanatory variable that influences the response variable (it may also be linked to the explanatory variable).'],
     ],
   },
   {
@@ -67,7 +67,7 @@ export const themes = [
       ['A = P(1 + i)^n', 'Compound interest formula.'],
       ['Effective annual rate', 'Equivalent annual rate: (1 + i)^k − 1.'],
       ['Annuity', 'Series of equal payments at regular intervals.'],
-      ['Ordinary annuity', 'Interest calculated before each periodic payment.'],
+      ['Ordinary annuity', 'Annuity in which each payment is made at the end of the period, after interest is added.'],
       ['Present value annuity', 'Value now of a series of future payments (e.g. reducing-balance loan).'],
       ['Future value annuity', 'Value later of regular deposits plus interest (e.g. savings).'],
       ['Perpetuity', 'Annuity that pays forever; A = d ÷ i.'],

@@ -164,7 +164,7 @@ Graph with edges A–B, A–C, B–C, C–D.
 4. A geometric sequence has $t_1 = 5$, $r = 3$. Find $t_4$.
 5. How much is \$2 000 worth after 2 years at 5% p.a. compounded quarterly?
 6. A perpetuity pays \$1 200 per year at 6% p.a. How much is invested?
-7. A simple graph has $v = 8$, $f = 7$. Find $e$.
+7. A connected planar graph has $v = 8$, $f = 7$. Find $e$.
 8. A project has $A(2) \to B(5) \to D(4)$ and $A(2) \to C(6) \to D(4)$. Find the critical path, minimum time and the float of the non-critical activity.
 9. A time difference of 5 hours corresponds to how many degrees of longitude?
 10. Explain why extrapolation is risky when using a least-squares line.

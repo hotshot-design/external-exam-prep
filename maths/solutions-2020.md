@@ -46,7 +46,7 @@ b) r = 0.688 is a **moderate** (positive) linear association (1). $R^{2} = 0.473
 
 #### Q20 (4 marks) Home loan repayment
 i = 0.065 ÷ 12 = 0.005416…, n = 25 × 12 = 300 (1).
-\$350\,000 = M \times (1 - (1 + i)^{-300}) \div i = M \times 148.102\$… (1), so M = 2363.225… (1).
+$350\,000 = M \times (1 - (1 + i)^{-300}) \div i = M \times 148.102\ldots$ (1), so M = 2363.225… (1).
 **\$2363.23 per month** for 25 years (1, with units and rounding).
 
 #### Q21 (5 marks) Maximum flow, minimum cut 📐
@@ -94,7 +94,7 @@ Option 2: $(1 + 0.068/12)^{12} - 1 =$ **0.07016** (7.016%).
 
 #### Q26 (5 marks) Geometric decay model
 a) r = 1 − 0.17 = **0.83** (1). Let n = years since 2015: **$t_{n} = 483 \times 0.83^{n-1}$** (1).
-b) Beginning of 2021 is n = 6 (1): $t_{6} = 483 \times 0.83^{5} = 190.26 (1)$, so about **190 birds** (1).
+b) Beginning of 2021 is n = 6 (1): $t_{6} = 483 \times 0.83^{5} = 190.26$ (1), so about **190 birds** (1).
 
 ## Paper 2 (40 marks)
 
@@ -141,12 +141,12 @@ Minimum cost = 3 + 4 + 1 = **\$8000** (1). Organisation (1).
 Tasks: A 3 (–), B 4 (–), C 2 (A), D 8 (C), E 5 (C), F 4 (B), G 3 (B), H 1 (E, F), I 2 (G), J 3 (H, I). 📐 (the question gives a table, but check the network in the book)
 Forward scan: A 0, B 0, C 3, F 4, G 4, D 5, E 5, I 7, H 10, J 11. Finish = 11 + 3 = **14 days** (network 1, EST 1, LST 1; minimum time 1).
 Critical path A – C – E – H – J = 3 + 2 + 5 + 1 + 3 = 14.
-Only A and B can start on day 0 and a third worker is only useful from day 4 (C, F and G running together). At day 5, tasks **D, E, F and G** are all available: with 3 workers D cannot be finished by day 14 while the critical path stays on time (checked by trying every possible task order).
+Only A and B can start on day 0 and a third worker is only useful from day 4 (C, F and G running together). At day 5, tasks **D, E, F and G** are all available. The guide's sample allocation shows that with 3 workers D (8 days) cannot be finished by day 14 while the critical path stays on time.
 The owner's belief is **not reasonable**: **at least 4 workers** are needed to finish in 14 days (1 evaluation, 1 organisation).
 
 #### Q7 (7 marks) Annuity savings to buy a perpetuity (multi-topic)
 **Step 1 (perpetuity):** i = 0.0576 ÷ 12 = 0.0048 (1). A = d ÷ i = 3600 ÷ 0.0048 = **\$750 000** (1 + 1) needed at age 65.
 **Step 2 (savings annuity):** i = 0.042 ÷ 12 = 0.0035, n = 20 × 12 = 240 (1).
-\$750\,000 = M \times [(1.0035^{240} - 1) \div 0.0035] = M \times 375.13\$… (1 + 1).
-M = **\$1999.29 per month** (1 + 1 for organisation).
+$750\,000 = M \times [(1.0035^{240} - 1) \div 0.0035] = M \times 375.13\ldots$ (1 + 1).
+M = 1999.2805…, so **\$1999.28 per month** (1 + 1 for organisation). The guide writes \$1999.29 (it appears to round up so the savings target is reached); either should earn the mark.
 *Key idea:* the perpetuity price (the "A") becomes the **future value** target of the savings annuity. Two formulas chained.

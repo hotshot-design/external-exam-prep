@@ -258,6 +258,139 @@
   "notes": "All 26 term pairs checked for accuracy (shot sizes, sound, editing, audience/institution, representation); consistent with the glossary and syllabus definitions.",
   "result": "pass"
  },
+ "maths/checklist.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "3d029fb6a68e",
+  "notes": "Items match syllabus Units 3-4 subject matter and the exam conditions.",
+  "result": "pass"
+ },
+ "maths/flashcards.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "07fb42a8dd42",
+  "notes": "All 40 cards correct; formulas match syllabus; weights 30/20.",
+  "result": "pass"
+ },
+ "maths/glossary.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "9f8394984b8d",
+  "notes": "~115 terms checked against syllabus subject matter and guides. Fixed: confounding variable now matches the QCAA wording (2021 MC Q4, 2024 Q20); ordinary annuity definition was wrong (payments at the end of each period).",
+  "result": "fixed"
+ },
+ "maths/index.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "0dd3bd4d692a",
+  "notes": "Exam format, weights 30/20, 5+90 min, formula book, scientific calculator, difficulty split 60/20/20 and objectives match syllabus pp.43-45 (was cited as pp.42-44); unit/topic names checked; 57/38 marks for 2023-25. Fixed page cite and '13 worked examples' (there are 16).",
+  "result": "fixed"
+ },
+ "maths/notes.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "0157399236a6",
+  "notes": "Formulas and methods checked against syllabus subject matter (Units 3-4: average percentage method, activity-on-arc CPA, flow networks, Hungarian 3x3-5x5, Hamiltonian terms) and guides. Clarified that a closed trail is a circuit (2020 guide uses 'closed trail').",
+  "result": "fixed"
+ },
+ "maths/past-papers.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "7a54ee46a751",
+  "notes": "Paper marks recounted from all 2020-25 books (SR 45/40 in 2020, 42/38 after; 485 total); topic table columns and totals sum correctly; question references for 2023-25 spot-checked against books and guides. Topic categorisation is a judgement.",
+  "result": "pass"
+ },
+ "maths/quick-reference.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "035946fba304",
+  "notes": "Marks 57/38 (2023-25), timings, calculator/formula-book conditions and all method lines checked against syllabus and guides.",
+  "result": "pass"
+ },
+ "maths/quiz-methods.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "ebaa86ee2cd6",
+  "notes": "All 18 answers recomputed by script; tagged items match 2024/2025 guides. The two check.py anchor warnings (2024 P1 Q21 p.7, Q23 p.9) are false positives: Q21b and Q23 are on those guide pages.",
+  "result": "pass"
+ },
+ "maths/quiz-past-mc.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "d46eb8ec7a59",
+  "notes": "All 31 items: keyed option mapped to the paper's option letter and compared with the guide keys (2020-22, 2024-25) by script; 2023 items checked against own working (no guide) and recomputed. Added a note that 2023 answers are not from a QCAA guide.",
+  "result": "fixed"
+ },
+ "maths/quiz-sr-2020.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "8df08ba1d97f",
+  "notes": "All 14 answers recomputed and matched to the image-only 2020 guide (rendered). Fixed: P2 Q7 accepts the guide's 1999.29 as well as 1999.28 with explanation; removed a '$' variant on a bird count.",
+  "result": "fixed"
+ },
+ "maths/quiz-sr-2021-22.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "93d5459453fa",
+  "notes": "All 30 answers recomputed and matched to the 2021/2022 guides. Fixed S1: 2022 P2 Q1 named the wrong seasons (paper gives spring/summer/winter, asks for autumn). Also fixed 'double and a half' (ratio is 1.5) and a '$' variant on a count of plays.",
+  "result": "fixed"
+ },
+ "maths/quiz-sr-2024-25.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "56afc7797664",
+  "notes": "All 25 items' answers recomputed by script and matched to the 2024/2025 guides; page anchors confirmed. Fixed: Q6 explanation arithmetic (175.69 gives 1733.83, unrounded gives 1733.84; both now accepted) and removed '$' answer variants on km/mm answers.",
+  "result": "fixed"
+ },
+ "maths/solutions-2020.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "90ec20cb1636",
+  "notes": "2020 guide is image-only: rendered and read all 15 guide pages. MC keys and every P1/P2 answer match. Fixed: two escaped-dollar spans showing raw LaTeX (Q20, P2 Q7); P2 Q7 rounding (1999.2805 -> 1999.28; guide writes 1999.29, now explained); P2 Q6 '4 workers' is the guide's conclusion, not the author's own check.",
+  "result": "fixed"
+ },
+ "maths/solutions-2021.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "34910a98c083",
+  "notes": "MC keys and all P1/P2 answers match the 2021 guide; recomputed by script (repayment 4125.58, annuity 66 639.94 + 10 743.09, distance 597.48, EARs for MC15, 691.98 plays, LSRL rebuild). Fixed: Q17 used escaped dollars so LaTeX showed as raw text; P2 Q4 Model 1 value now matches the guide (947.33) with the rounding explained; mark inside a maths span.",
+  "result": "fixed"
+ },
+ "maths/solutions-2022.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "832f44029575",
+  "notes": "MC keys and every P1/P2 answer match the 2022 guide; numbers recomputed by script (LSRL 42.6/55.4, r=-0.905, annuities 900/54 941.61, b=992.878, Kruskal MST 680/645/138 030, Dijkstra 53). Fixed four broken maths spans (Q18 marks, Q25b recurrence, P2 Q3 slope, Q6 slope) that rendered prose as maths.",
+  "result": "fixed"
+ },
+ "maths/solutions-2023.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "f1bf09b12711",
+  "notes": "No 2023 guide (page says so). All numbers recomputed by script against the 2023 question books: Q17 3543.64, Q19 EARs, Q24 EST/LST, P2 Q2 indices and deseasonalised values, Q4 r and LSRL (415 fish), Q6 models (difference 50 620), Q7 120 888.66 vs 150 000; MC answers checked.",
+  "result": "pass"
+ },
+ "maths/solutions-2024.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "ba0df605d0dd",
+  "notes": "MC keys, all P1 Q16-25 and P2 Q1-7 answers and criteria match the 2024 guide; numbers recomputed by script (compound interest, LSRL -0.227/16.7, Hungarian distances 890/1149, totals). Fixed a broken maths span in MC Q9 (prose rendered as maths).",
+  "result": "fixed"
+ },
+ "maths/solutions-2025.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "826af6a373aa",
+  "notes": "All 15 MC keys, every Q16-25 and P2 Q1-7 answer, mark split and criterion checked against the 2025 guide; all numbers recomputed by script (incl. brute-force shortest cycle, LSRL check for Q7); question data checked against P1 MC and P2 books. Marks 57/38 confirmed.",
+  "result": "pass"
+ },
+ "maths/worked-examples.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "e79181c376d5",
+  "notes": "maths_examples.py passes (all 16 examples recompute); practice answers recomputed. Fixed practice Q7: Euler's formula needs a connected planar graph, not just a 'simple graph'.",
+  "result": "fixed"
+ },
  "spanish/checklist.md": {
   "by": "claude",
   "date": "2026-10-19",

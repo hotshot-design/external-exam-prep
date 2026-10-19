@@ -41,7 +41,7 @@ b) Recursion: $A_{1} = 50\,187.50, A_{2} = 50\,375.70, A_{3} = 50\,564.61, A_{4}
 Graph points (weeks 1 to 5): 87, 209, 331, 453, 575.
 $t_{1} =$ **87**, d = 209 − 87 = **122**.
 $t_{n} = 87 + (n - 1) \times 122$, so $t_{25} = 87 + 24 \times 122 =$ **3015 songs**.
-**Marks (guide):** $t_{1} (1), d (1)$, arithmetic rule used (1), prediction (1).
+**Marks (guide):** $t_{1}$ (1), $d$ (1), arithmetic rule used (1), prediction (1).
 
 #### Q19 (4 marks) Time series 📐
 a) **Trend:** positive (long-term increase) because rainfall generally rises over the years. **Seasonality:** the series is seasonal, with a high 4th quarter every year. (1 + 1)
@@ -94,7 +94,7 @@ b) **Strong, negative** (and linear) association (1 + 1). Calculator check: r �
 #### Q25 (5 marks) Loan amount from repayments
 a) i = 0.024 ÷ 12 = 0.002, n = 15 × 12 = 180, d = 993.14 (1).
 $A = 993.14 \times (1 - 1.002^{-180}) \div 0.002 =$ **\$150 000** (substitution 1, amount 1).
-b) **\$A_{n}\$₊$_{1} = 1.002A_{n} - 993.14$** (formula chosen 1, relation 1). $(A_{0} = 150\,000.)$
+b) **$A_{n+1} = 1.002A_{n} - 993.14$** (formula chosen 1, relation 1). $(A_{0} = 150\,000.)$
 
 ## Paper 2 (38 marks)
 
@@ -111,7 +111,7 @@ Since 3597.76 > 3000, the advice is **reasonable** (1).
 
 #### Q3 (5 marks) "Show that" with r, sx and the mean
 x = 1, 2, …, 10: x̄ = **5.5**, $s_{x} =$ **3.02765** (1).
-b = r × s_$y \div s_{x} = 0.9987 \times 3010 \div 3.02765 =$ **992.878** (1).
+b = r × $s_{y} \div s_{x}$ = 0.9987 × 3010 ÷ 3.02765 = **992.878** (1).
 a = ȳ − b·x̄ = 9660 − 992.878 × 5.5 = **4199.17** (1).
 x = 11: y = 4199.17 + 992.878 × 11 = 15 120.83 ≈ **\$15 121** (1). Logical organisation (1).
 **Calculator tip:** enter 1 to 10 in a list and read $s_{x}$ (sample standard deviation).
@@ -133,7 +133,7 @@ Saving = 645 × 214 = **\$138 030** per year (1).
 Because 138 030 > 138 000, the manager's belief is **reasonable** (1), but only just. (Marks: tree 1, removed length 1, saving 1, comparison 1, organisation 1.)
 
 #### Q6 (7 marks) Arithmetic and geometric sequences from line equations (complex unfamiliar)
-Slopes: −0.8, 0.4, −0.2 is **geometric**: $t_{1} = -0.8, r = -0.5$. Line 5 slope = −$0.8 \times (-0.5)^{4} =$ **−0.05**.
+Slopes: −0.8, 0.4, −0.2 is **geometric**: $t_{1} = -0.8, r = -0.5$. Line 5 slope = $-0.8 \times (-0.5)^{4} =$ **−0.05**.
 y-intercepts: 1.2, 2.7, 4.2 is **arithmetic**: $t_{1} = 1.2, d = 1.5$. Line 5 intercept = 1.2 + 4 × 1.5 = **7.2**.
 Line 5: y = −0.05x + 7.2. Intersect with Line 1: −0.8x + 1.2 = −0.05x + 7.2, so −0.75x = 6, **x = −8**, y = −0.8(−8) + 1.2 = **7.6**.
 **Intersection (−8, 7.6).**

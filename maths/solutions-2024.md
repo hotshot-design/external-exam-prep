@@ -17,7 +17,7 @@ Built from the QCAA **2024 General Mathematics** Paper 1 and Paper 2 books and t
 | 6 | A | Friday's 5 points are Wed–Sun: (24.6 + 25.2 + 25.6 + 25.7 + 25.9) ÷ 5 = 127 ÷ 5 = **25.4** |
 | 7 | C | Float = LST − EST for activity W: 4 − 0 = **4 min** |
 | 8 | C | $t_{1} = 240 \times 0.5^{0} = 240$ and $t_{3} = 240 \times 0.5^{2} = 60$, so the difference is **180 cm** |
-| 9 | D | Ratio = −$900 \div 1000 = -0.9. t_{4} = 1000 \times (-0.9)^{3} =$ **−729** |
+| 9 | D | Ratio = −900 ÷ 1000 = −0.9, so $t_{4} = 1000 \times (-0.9)^{3} =$ **−729** |
 | 10 | C | Osaka is 2 h ahead of Phnom Penh, so Phnom Penh is 30° further west: 135° E − 30° = **105° E** |
 | 11 | B | r = −0.989 is strong and negative; the scatterplot is linear: **negative and linear** |
 | 12 | A | r = Σ[(x−x̄)(y−ȳ)]/(sx·sy) ÷ (n − 1) = −4.5 ÷ 9 = **−0.50** |

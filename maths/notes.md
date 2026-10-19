@@ -88,7 +88,7 @@ Know **which** formula to use and **how** to use it with your calculator. Formul
   | Term | Repeated edges? | Repeated vertices? | Closed? |
   |---|---|---|---|
   | Walk | allowed | allowed | open or closed |
-  | Trail | no | allowed | open |
+  | Trail | no | allowed | open (a closed trail is a circuit) |
   | Path | no | no | open |
   | Circuit | no | allowed | closed |
   | Cycle | no | no (except start = end) | closed |

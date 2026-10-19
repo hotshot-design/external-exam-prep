@@ -1,6 +1,6 @@
 # Maths quiz: past-paper multiple choice
 
-Text-only multiple-choice questions from QCAA 2020–2025 Paper 1 (diagram questions are left out). Answer all, press **Validate**, then read each explanation. Source: QCAA external assessments (CC BY 4.0, © State of Queensland (QCAA)). See the worked solutions: [2025](/maths/solutions-2025), [2024](/maths/solutions-2024), [2023](/maths/solutions-2023), [2022](/maths/solutions-2022), [2021](/maths/solutions-2021), [2020](/maths/solutions-2020).
+Text-only multiple-choice questions from QCAA 2020–2025 Paper 1 (diagram questions are left out). There is no published 2023 marking guide, so the 2023 answers are worked out by the site's author (see the [2023 solutions](/maths/solutions-2023)). Answer all, press **Validate**, then read each explanation. Source: QCAA external assessments (CC BY 4.0, © State of Queensland (QCAA)). See the worked solutions: [2025](/maths/solutions-2025), [2024](/maths/solutions-2024), [2023](/maths/solutions-2023), [2022](/maths/solutions-2022), [2021](/maths/solutions-2021), [2020](/maths/solutions-2020).
 
 ## Questions
 

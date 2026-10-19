@@ -6,7 +6,7 @@
 **Quizzes:** [Past MC](/maths/quiz-past-mc) · [Calculation](/maths/quiz-methods) · [Short responses 2024–25](/maths/quiz-sr-2024-25) · [2021–22](/maths/quiz-sr-2021-22) · [2020](/maths/quiz-sr-2020) · [All quizzes](/quizzes)
 :::
 
-## Exam format (QCAA General Mathematics syllabus v1.3, pp.42–44)
+## Exam format (QCAA General Mathematics syllabus v1.3, pp.43–45)
 | | Paper 1 | Paper 2 |
 |---|---|---|
 | Weight | **30%** of final mark | **20%** of final mark |
@@ -46,7 +46,7 @@ Paper 1 is **57 marks** (15 MC + 10 short response); Paper 2 is **38 marks** (7 
 - [Paper files (PDFs by year)](/maths/papers) – every paper and marking guide, 2020–2025
 - [Past papers analysis](/maths/past-papers) – topic frequency and question styles, 2023–25
 - [Revision notes and formulas](/maths/notes)
-- [Worked examples](/maths/worked-examples) – 13 worked examples and 10 practice questions with answers
+- [Worked examples](/maths/worked-examples) – 16 worked examples and 10 practice questions with answers
 - [Glossary bank](/maths/glossary) – searchable terms plus a drill deck
 - Quizzes: [Past MC](/maths/quiz-past-mc) · [Calculation](/maths/quiz-methods) · [Short responses 2024–25](/maths/quiz-sr-2024-25) · [2021–22](/maths/quiz-sr-2021-22) · [2020](/maths/quiz-sr-2020)
 - [Checklist](/maths/checklist)
