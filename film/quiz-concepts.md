@@ -97,7 +97,7 @@ answer-correct: Audiences
 answer: Representations
 answer: Languages
 answer: Technologies
-explanation: Audience participation and sustained engagement. Source: [2023 question book](/film/papers/snr_ftvnm_23_ea_question.pdf) · [2023 marking guide](/film/papers/snr_ftvnm_23_ea_mark_guide_pub.pdf)
+explanation: The stem asks about audience participation and sustained engagement (the 2023 paper doesn't print the concept name). Source: [2023 question book](/film/papers/snr_ftvnm_23_ea_question.pdf) · [2023 marking guide](/film/papers/snr_ftvnm_23_ea_mark_guide_pub.pdf)
 shuffle: true
 :::
 
@@ -112,12 +112,12 @@ shuffle: true
 :::
 
 :::quiz
-question: Which concept has been named LEAST recently (not in 2024 or 2025)?
+question: Which concept was the focus of a question in 2021–23 but not in 2024 or 2025?
 answer-correct: Languages
 answer: Technologies
 answer: Representations
 answer: Institutions
-explanation: Named in 2021, 2022 and 2023; absent in 2024–25.
+explanation: Languages was the focus of 2021 Q3, 2022 Q2 and 2023 Q1 and is absent in 2024–25. The 2020–23 papers don't print the concept name, so these are read from the question stems.
 shuffle: true
 :::
 

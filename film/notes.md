@@ -21,7 +21,7 @@ Every question in 2024–25 was tied to **one** of Technologies, Representations
 
 <Diagram name="film-contexts" caption="Production and use contexts" />
 - **Production** may include: how, when, where and why it was made; who made it; public or commercial financing; available technologies; how it is distributed; the impact of government regulations.
-- **Use** may include: who it is made for; why it is used; how it is shaped for consumers, citizens or other users; platform and viewing context.
+- **Use** may include: who it is made for; why it is used; how it is shaped for users as consumers, citizens or imaginative beings; who can and can't access it; market research; how audiences make meaning of it or adapt it; classification and regulation; platform and viewing context.
 - The **context box** in the exam hands you most of these facts. Use them, **separately**, for production and for use, then link them to the key concept.
 
 ## The question template

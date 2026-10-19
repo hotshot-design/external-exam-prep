@@ -7,7 +7,7 @@ The exam gives **three unseen clips with a context box**. You choose one questio
 ## Responding to the stimulus (20 minutes' planning)
 1. **Read the three questions and context boxes** (2 min). Note each key concept: Technologies, Representations, Institutions or Audiences.
 2. **Choose** the clip and question where you can both **explain the contexts** (the box gives facts) and **notice the most elements**.
-3. **Watch the clip** (twice if the format allows). First: gist. Second: list elements by category (camera, mise-en-scène, sound, editing, graphics, technology).
+3. **Watch the clip** at least twice (the 2025 response book says you may play the stimulus as often as required). First: gist. Second: list elements by category (camera, mise-en-scène, sound, editing, graphics, technology).
 4. **Underline** the key words of the question: the concept, "how effectively", and whether it asks about the target audience.
 5. **Write the viewpoint** in one sentence and list 2–3 **interrelationships** that prove it.
 6. **Plan the contexts:** 3 facts about production, 3 about use from the context box, each linked to the concept.

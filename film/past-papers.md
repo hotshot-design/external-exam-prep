@@ -22,7 +22,7 @@ Nearly every question has the same shape (2024 Q3 asks "how has the advertising 
 | 2025 | **Technologies**: Mitski music video *Love Me More* | **Representations**: animation *The Last Job on Earth* (the future) | **Audiences**: Apple web film *The Underdogs* (positioning toward the brand) |
 
 ### Takeaways
-- **Each question is tied to one key concept**: Representations, Technologies, Institutions or Audiences. The fifth concept, **Languages** (codes and conventions), is also your analysis toolkit; it was the named concept in 2021 Q3, 2022 Q2 and 2023 Q1, but not in 2024–25.
+- **Each question is tied to one key concept**: Representations, Technologies, Institutions or Audiences. The fifth concept, **Languages** (codes and conventions), is also your analysis toolkit; it was the concept of 2021 Q3, 2022 Q2 and 2023 Q1, but not in 2024–25.
 - **Mixed media**: animation, feature-film scene, advertisement, music video, web film, AR/social media. Do not revise only "movies".
 - Stimulus types are **non-traditional** (new media, ads, B2B content). Know how **institutions** (studios, agencies, platforms, funders) shape content.
 - The **context paragraph** hands you production facts (funder, publication venue, audience age, campaign aim, platform). Use these facts in your "context of production and use" paragraphs, since they are what the **Explaining** criterion rewards.
@@ -30,7 +30,7 @@ Nearly every question has the same shape (2024 Q3 asks "how has the advertising 
 
 ## 2020–2022 papers (older 2019 syllabus)
 Same format (3 clips, choose 1, 800–1000 words, 20 + 120 min) but older marking (see below). Stems ended "Justify your viewpoint by analysing and appraising the stimulus."
-| Year | Stimulus | Concept | Stem |
+| Year | Stimulus | Concept (inferred from the stem) | Stem |
 |---|---|---|---|
 | 2020 | *Son of Rambow* (2007) | Technologies | To what extent have technologies been used to create meaning? |
 | 2020 | *Up*, "Married life" (Pixar, 2009) | Representations | How effectively has Pixar represented people, places, events, ideas and/or emotions to communicate meaning? |
@@ -42,11 +42,11 @@ Same format (3 clips, choose 1, 800–1000 words, 20 + 120 min) but older markin
 | 2022 | "When She Loved Me", *Toy Story 2* (Pixar, 1999) | Languages | How effectively have moving-image media languages been manipulated to evoke an emotional response? |
 | 2022 | *The Jungle Book* trailer (Disney, 2016) | Institutions | Was the Australian Classification Board justified in its classification? |
 
-**Patterns across 2020–2025 (named concept):** Representations 5, Audiences 4, Technologies 3, Institutions 3, Languages 3. 2023 had no Technologies or Institutions question, so both are plausible for 2026. Two Institutions questions (2020, 2022) asked whether a regulator or classifier was **justified**, so be ready for a verdict-style stem about regulation, classification or banning. Stimuli are mostly advertisements and public-service films, plus Pixar/animation and music video.
+**Patterns across 2020–2025 (concept; 2020–23 papers don't label it, so it is inferred from the stem):** Representations 5, Audiences 4, Technologies 3, Institutions 3, Languages 3. 2023 had no Technologies or Institutions question, so both are plausible for 2026. Two Institutions questions (2020, 2022) asked whether a regulator or classifier was **justified**, so be ready for a verdict-style stem about regulation, classification or banning. Stimuli are mostly advertisements and public-service films, plus Pixar/animation and music video.
 
 **2023** (37 marks): Q1 Languages, *The Grand Budapest Hotel* (Wes Anderson, 2014): how effectively have moving-image media languages been manipulated to create mood? Q2 Audiences, Ted Baker *Mission Impeccable* (2016): how effectively does the campaign encourage **audience participation and sustained engagement** with the brand (clickable characters, a QR code in shop windows, social media rewards)? Q3 Representations, Google Maps *Saroo Brierley: Homeward Bound* (2013): how effectively has it constructed representations of **hope and determination**? 2023's marks were 9 Explaining (key-concept characteristics 3, production 3, use 3), 13 Analysing, 10 Appraising and 5 Written literacy.
 
-**Marking in 2020–23 vs now:** the 2020–22 guides had four criteria (Explaining, Analysing, Appraising, Written literacy), with Explaining including **characteristics of the key concept** as well as production and use contexts, and terminology scored separately in Written literacy. The 2025 guide dropped the key-concept characteristics mark and scores written literacy as one 0–3 scale. Still useful: define the key concept in one sentence in your introduction. Totals were 35, 37 and 37 (2020–22). No sample essays appear in any year's guide.
+**Marking in 2020–23 vs now:** the 2020–23 guides had four criteria (Explaining, Analysing, Appraising, Written literacy), with Explaining including **characteristics of the key concept** as well as production and use contexts, and terminology scored separately in Written literacy. The 2025 guide dropped the key-concept characteristics mark and scores written literacy as one 0–3 scale. Still useful: define the key concept in one sentence in your introduction. Totals were 35, 37 and 37 (2020–22). No sample essays appear in any year's guide.
 
 ## What the marking guide rewards (2025, 32 marks)
 | Criterion | Marks | Top-level descriptors |

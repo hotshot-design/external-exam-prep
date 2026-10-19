@@ -181,6 +181,83 @@
   "notes": "No copy of Othello in the folder: all 25 quotations and act/scene references checked against the reviewer's knowledge of the standard (Folger/Arden) text, so confirm against the class edition. All accurate. Fixed context for 'I am not what I am' (mid-scene speech, not end of scene).",
   "result": "fixed"
  },
+ "film/checklist.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "891050bbbfd2",
+  "notes": "Items consistent with syllabus and 2024-25 papers.",
+  "result": "pass"
+ },
+ "film/essay-plans.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "6353b277e9f5",
+  "notes": "Method, 20+120 min, 6 context marks, concept plans consistent with syllabus and 2024-25 papers/guide. Fixed 'twice if the format allows': the 2025 response book says the stimulus may be played as often as required.",
+  "result": "fixed"
+ },
+ "film/flashcards.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "6477d4c9f3a1",
+  "notes": "Definitions match syllabus p.9; marks 35/32 and 20+120 min match papers; movements/directors match syllabus Unit 4.",
+  "result": "pass"
+ },
+ "film/glossary.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "367867e19191",
+  "notes": "~120 terms checked for accuracy; movements and named directors (Godard, Murnau, De Sica, Vertov, Bu\u00f1uel) match the syllabus Unit 4 list; concept terms consistent with syllabus definitions.",
+  "result": "pass"
+ },
+ "film/index.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "aa8faf8d0d75",
+  "notes": "Exam format, 20+120 min, 25%, objectives 4-6, stimulus specs and five key-concept definitions verified against syllabus pp.9 and 40; 2024-25 marks 35/32.",
+  "result": "pass"
+ },
+ "film/notes.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "74f812247332",
+  "notes": "Concept definitions, contexts lists (syllabus pp.9-10), Unit 4 Artistry movements/auteurs, 2024-25 format and 2025 marks verified. Contexts-of-use list paraphrased 'imaginative beings' as 'other users' and omitted items: now matches the syllabus list.",
+  "result": "fixed"
+ },
+ "film/past-papers.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "f0d11f9c5b00",
+  "notes": "Totals (35/37/37/37/35/32), clip lengths, all 18 stems and stimuli 2020-25, concept counts, 2023 marks (rendered image-only guide pp.3,5: 9/13/10/5) and 2025 criteria verified. Fixed: 2020-23 papers don't label concepts (now 'inferred from the stem'); key-concept characteristics mark ran to 2023, not 2022.",
+  "result": "fixed"
+ },
+ "film/past-questions.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "428c2d1ff086",
+  "notes": "All six 2024-25 questions and context-box facts checked word for word against the question books; criteria and 2024 'connections' descriptor against guides; 20+120 min. Fixed: Mitski 'use' was not in the context box (now labelled inferred); Guardian audience wording ('older' -> mostly 35+). Clips not viewed.",
+  "result": "fixed"
+ },
+ "film/quick-reference.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "76cdcaef88fe",
+  "notes": "Format, 2025 criteria marks (3+3, 5+4+4, 5+5, 3 = 32), concept definitions and timings verified against syllabus and 2024-25 papers/guides.",
+  "result": "pass"
+ },
+ "film/quiz-concepts.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "e71f84eabb49",
+  "notes": "Keyed answers checked against syllabus definitions, 2022-25 question books and the 2025 guide. Fixed: 2020-23 concepts are inferred from stems, not 'named'. Open: three items (best viewpoint sentence, top-marks Analysing, what to do first in planning) are exam-technique items, which may conflict with the 'no exam-skills quizzes' rule; left for the user to decide.",
+  "result": "fixed"
+ },
+ "film/quiz-terms.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "e3f54d6ba0aa",
+  "notes": "All 26 term pairs checked for accuracy (shot sizes, sound, editing, audience/institution, representation); consistent with the glossary and syllabus definitions.",
+  "result": "pass"
+ },
  "spanish/checklist.md": {
   "by": "claude",
   "date": "2026-10-19",

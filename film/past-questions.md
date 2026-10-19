@@ -40,7 +40,7 @@ In 2024 the guide's *Explaining* criterion also includes **explaining connection
 **From the context box:**
 - *Production:* Mitski (Japanese-born American singer-songwriter); fourth single from *Laurel Hell* (2022); second Mitski video directed by Christopher Good.
 - *Meaning:* the song explores **isolation as a singer-songwriter and longing for connection and validation**. Mitski said a romantic relationship is "the best metaphor, the best narrative vehicle" for telling a story or evoking a feeling.
-- *Use:* a music video, circulated online.
+- *Use (inferred, not in the context box):* a music video, circulated online.
 
 **Your viewpoint starter:** *The technologies used in the video are highly effective in enhancing the meaning of isolation and longing, because …*
 **Paragraph skeleton:**
@@ -61,7 +61,7 @@ In 2024 the guide's *Explaining* criterion also includes **explaining connection
 - *Idea:* Paul Mason's quote about the "biggest enigma" of the post-work society: what happens to the self when it cannot define itself against **corporate identity, skill set or seniority**.
 
 **Viewpoint starter:** *The animation represents the future as … effectively/ineffectively because …*
-Link every analysis point to **an audience of older, readers of business news** and the **article's message** that a post-work society is not to be feared.
+Link every analysis point to **an audience of Guardian sustainable-business readers, mostly aged 35 and over** and the **article's message** that a post-work society is not to be feared.
 
 ### Q3 Audiences: *The Underdogs* (Apple web film, 2019)
 
