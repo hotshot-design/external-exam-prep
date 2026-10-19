@@ -363,6 +363,13 @@
   "notes": "All 26 term pairs checked for accuracy (shot sizes, sound, editing, audience/institution, representation); consistent with the glossary and syllabus definitions.",
   "result": "pass"
  },
+ "index.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "f9c448a05ea2",
+  "notes": "Home page: dates come from exams.ts (verified with timetable); fixed 'aligned to the 2023-25 papers' to 2020-25 with 2024-25 as the format reference.",
+  "result": "fixed"
+ },
  "maths/checklist.md": {
   "by": "claude",
   "date": "2026-10-19",
@@ -496,6 +503,13 @@
   "notes": "maths_examples.py passes (all 16 examples recompute); practice answers recomputed. Fixed practice Q7: Euler's formula needs a connected planar graph, not just a 'simple graph'.",
   "result": "fixed"
  },
+ "past-papers.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "188cf400d569",
+  "notes": "Folder table was out of date (listed only 2024-25 for most subjects): rewritten from the actual files (2020-25 for all subjects, 6 Spanish audio files, Digital stimulus years, Maths no 2023 guide, image-only 2023 Business guide). Links checked by check.py.",
+  "result": "fixed"
+ },
  "spanish/checklist.md": {
   "by": "claude",
   "date": "2026-10-19",
@@ -585,6 +599,20 @@
   "date": "2026-10-19",
   "hash": "58090c02d844",
   "notes": "All 352 entries proofread (translations correct). Retitled two themes that claimed to be 'words from the 2020-22 / 2024-25 papers' (several words are not in any paper text; audio unavailable). Learning-plan word counts checked.",
+  "result": "fixed"
+ },
+ "strategy.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "b7b908ce1379",
+  "notes": "Mark totals, working, planning and perusal times per subject match the 2024-25 papers, syllabuses and timetable; time splits are labelled as suggestions; command-term definitions flagged as general knowledge with a link to the QCAA glossary.",
+  "result": "pass"
+ },
+ "syllabuses.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "9a93992049b2",
+  "notes": "Versions and external-assessment page numbers verified for all six syllabuses (English p.48, Spanish p.34, Business p.45, Film p.40, Maths p.43, Digital p.47). Fixed Film exam content: the syllabus does not tie the exam to Unit 4.",
   "result": "fixed"
  },
  "timetable.md": {

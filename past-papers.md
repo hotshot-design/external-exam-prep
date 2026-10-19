@@ -7,12 +7,12 @@ The papers are QCAA's 2020–2025 external assessments (CC BY 4.0, © State of Q
 ## What's in the folder
 | Subject | Papers | Guides | Notes |
 |---|---|---|---|
-| English | 2024, 2025 question and response books | 2024, 2025 English/EAL guides (criteria only) | Othello prompts analysed |
-| Spanish | 2024, 2025 question/response + stimulus books, 2 audio files | 2024, 2025 guides with sample answers | Listen to the mp3s yourself |
-| Business | 2024, 2025 question/response + stimulus books | 2024, 2025 guides with sample answers | Case studies: Gym Business (2024), Music Co (2025) |
-| Film, TV & New Media | 2024, 2025 question books | 2024, 2025 guides (criteria only) | Clips via the reference lists |
+| English | 2020–2025 question and response books | 2020–2025 English/EAL guides (criteria only; no sample essays are printed) | Othello set only in 2024 and 2025 |
+| Spanish | 2020–2025 question/response and stimulus books, 6 audio files | 2020–2025 guides with sample answers (none for the 2024 email) | Listen to the mp3s yourself |
+| Business | 2020–2025 question/response and stimulus books | 2020–2025 guides with sample answers (the 2023 guide is image-only) | Case studies: Gym Business (2024), Music Co (2025) |
+| Film, TV & New Media | 2020–2025 question and response books (2020 also a stimulus book) | 2020–2025 guides (criteria only, no sample essays) | Clips via the reference lists |
 | General Maths | 2020–2025 Paper 1 (+MC) and Paper 2 | 2020–22, 2024, 2025 guides (no 2023 guide) | Formula book is supplied in the exam |
-| Digital Solutions | 2024, 2025 MC, question/response, stimulus books | 2024, 2025 guides with sample answers | |
+| Digital Solutions | 2020–2025 MC and question/response books; stimulus books for 2021, 2022, 2024, 2025 | 2020–2025 guides with sample answers | |
 
 ## Study pages per subject
 | Subject | Analysis | Worked solutions / frameworks |
