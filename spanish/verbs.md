@@ -224,7 +224,7 @@ Fill in with the correct form.
 3. El año pasado (yo, trabajar) ___ como voluntaria.
 4. Mientras (yo, estudiar) ___, mi hermano (jugar) ___ al fútbol.
 5. Espero que (tú, poder) ___ venir.
-6. Mañana (nosotros, salir) ___ temprano.
+6. Mañana (nosotros, salir, future tense) ___ temprano.
 7. Me gustaría que (tú, venir) ___ conmigo.
 8. Ayer (ellos, hacer) ___ un proyecto de reciclaje.
 9. Es importante que los jóvenes (ayudar) ___ a la comunidad.

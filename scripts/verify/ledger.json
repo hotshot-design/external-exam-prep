@@ -1,4 +1,95 @@
 {
+ "spanish/checklist.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "9f8dc2b011bb",
+  "notes": "Exam conditions and task facts match syllabus; items are study actions.",
+  "result": "pass"
+ },
+ "spanish/flashcards.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "5fe5c1b656ec",
+  "notes": "Exam facts (200-300 words, 2 convention marks, replayable audio) and all Spanish/English pairs and examples verified.",
+  "result": "pass"
+ },
+ "spanish/index.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "9a104183d5fe",
+  "notes": "Exam format, perusal/working time, 25%, stimulus specs, objectives and Unit 4 topics verified against syllabus pp.16-17, 34-35 (printed). Removed 'formatura' (Portuguese, not in syllabus).",
+  "result": "fixed"
+ },
+ "spanish/notes.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "cfb1c6421608",
+  "notes": "Strategy, word limits (<=100 words short answers), email conventions, tense formation and examples checked against syllabus and 2024-25 guides.",
+  "result": "pass"
+ },
+ "spanish/past-papers.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "addb0b1f0c55",
+  "notes": "Table of 2020-2025 section marks, languages, totals (59/55/55/62/53/52), question counts and Section 3 text types verified against all six question books. Fixed contradiction about graduation themes (2023 festival and 2024 trip are graduation/celebration themes) and unverifiable 'no paper' claim. Task-type details for 2020-22 audio questions not re-derived.",
+  "result": "fixed"
+ },
+ "spanish/practice.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "244cdc1c21e2",
+  "notes": "Spanish proofread. Email A/B were 195/175 words (below the 200-300 requirement they model, and below the page's own 230-270 advice): expanded to 227/220 and updated headings; model paragraph 3 heading corrected to ~120 words.",
+  "result": "fixed"
+ },
+ "spanish/quick-reference.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "5868ee847941",
+  "notes": "Paper structure, marks, perusal/working time, conclusion+N examples rule and email conventions match 2024-25 guides and syllabus.",
+  "result": "pass"
+ },
+ "spanish/quiz-grammar.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "182a9ff16a65",
+  "notes": "All keyed answers verified. Fixed three questions where a distractor was also grammatical (salimos for 'ma\u00f1ana', ser\u00e1 after 'creo que', trabajaba after 'el a\u00f1o pasado').",
+  "result": "fixed"
+ },
+ "spanish/quiz-vocab.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "68d701790d78",
+  "notes": "Translations proofread. Block titles claimed words were 'from the 2020-22 / 2024-25 papers' but 5+3 words are not in any paper text; retitled as topic-based.",
+  "result": "fixed"
+ },
+ "spanish/solutions-2024.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "842cfb2a2f74",
+  "notes": "Marks (15/17/21=53), question wording, guide samples and stimulus quotes verified. Fixed Q3 context: removed unsupported 'blog' (stimulus is a first-person reflection).",
+  "result": "fixed"
+ },
+ "spanish/solutions-2025.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "b256667a4e44",
+  "notes": "All questions, marks (14/17/21=52), guide sample, criteria and stimulus quotes checked against 2025 question book, stimulus book and marking guide; Section 3 sample annotation verified line by line.",
+  "result": "pass"
+ },
+ "spanish/verbs.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "387583ecc9ce",
+  "notes": "Proofread all conjugation tables, irregular stems/participles, subjunctive formation and examples against standard Spanish grammar (no QCAA source exists for these tables): all correct. Clarified practice item 6 (present also valid for 'ma\u00f1ana').",
+  "result": "fixed"
+ },
+ "spanish/vocabulary.md": {
+  "by": "claude",
+  "date": "2026-10-19",
+  "hash": "58090c02d844",
+  "notes": "All 352 entries proofread (translations correct). Retitled two themes that claimed to be 'words from the 2020-22 / 2024-25 papers' (several words are not in any paper text; audio unavailable). Learning-plan word counts checked.",
+  "result": "fixed"
+ },
  "timetable.md": {
   "by": "claude-pilot",
   "date": "2026-10-19",

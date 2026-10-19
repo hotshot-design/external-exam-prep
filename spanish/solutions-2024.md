@@ -31,7 +31,7 @@ Content marks are 3 (Q1) and 4 (Q2), plus **4 marks each for the quality of your
 ## Section 2: written texts, answer in English (17 marks)
 
 ### Q3 (4 marks): Context of Stimulus 2 ("Costumbre razonable", about the siesta)
-**Context:** a student's blog or personal story about the **legendary origins of the Spanish siesta**, told through the legend of Félix.
+**Context:** a student's first-person reflection on the **supposed origins of the Spanish siesta**, told through the legend of Félix (the guide's wording).
 Three examples:
 1. Félix, a worker in the countryside in the south of Spain, decided to escape the heat in the middle of the day and rest.
 2. The sun shines almost all year in the south of the Iberian Peninsula, so days were long and hard.

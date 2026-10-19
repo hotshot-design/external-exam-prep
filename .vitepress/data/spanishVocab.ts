@@ -351,8 +351,8 @@ export const themes: Theme[] = [
   },
   {
     id: 'papers',
-    title: 'Words from the 2024–25 papers (travel, work abroad, customs, tone)',
-    note: 'Contexts that appeared in the audio, stimulus texts and email tasks.',
+    title: 'Words for tasks like the 2024–25 papers (travel, work abroad, customs, tone)',
+    note: 'Contexts from the 2024–25 audio, stimulus texts and email tasks, plus common letter phrases. Not every word is printed in the papers.',
     words: [
       ['la reserva', 'reservation'],
       ['cambiar la reserva', 'to change the reservation'],
@@ -401,7 +401,7 @@ export const themes: Theme[] = [
   },
   {
     id: 'older',
-    title: 'Words from the 2020–22 papers (work abroad, volunteering, unemployment)',
+    title: 'Words for topics like the 2020–22 papers (work abroad, volunteering, unemployment)',
     note: 'Themes from older papers that are still Unit 4 material.',
     words: [
       ['el voluntariado', 'volunteering'],

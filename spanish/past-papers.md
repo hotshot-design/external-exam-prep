@@ -36,7 +36,7 @@ All years: 5 minutes perusal, 120 minutes working. Text types so far: article (2
 - 2021 speech: reflect on past experiences, give advice on getting involved in school life, and how to keep your social life while studying.
 - 2022 narrative: what has happened to the person before, what might happen, and what possibilities exist in the future.
 
-**Themes seen only in 2020–22 (still Unit 4 material):** migration and working abroad, volunteering in Uruguay, youth unemployment and the economy, environmental careers, auditions and the arts, blogging and a career change, driver's licences. Topics the syllabus lists but no 2020–25 paper has centred on: **graduation ceremonies and celebrations**, young people shaping the future through technology or sustainability, and global citizenship.
+**Themes seen only in 2020–22 (still Unit 4 material):** migration and working abroad, volunteering in Uruguay, youth unemployment and the economy, environmental careers, auditions and the arts, blogging and a career change, driver's licences. Syllabus topics that no 2023–25 written stimulus mentions (I could not check the audio): young people shaping the future through **technology or sustainability**, and **global citizenship**. Graduation and end-of-school celebrations did appear, as the 2023 festival review and the 2024 graduation-trip email.
 
 ::: warning Syllabus vs papers
 The 2025 syllabus says short answers are "up to 100 words" and extended responses "up to 400 words". The papers themselves set **200–300 words** for Section 3, so follow the paper.

@@ -34,7 +34,7 @@ These are model answers written for revision, not QCAA samples. **Models 1–3 a
 
 ---
 
-## Model paragraph 3: future choices and Spanish (about 140 words)
+## Model paragraph 3: future choices and Spanish (about 120 words)
 
 **Prompt:** *Habla de tus planes para el futuro y del papel del español en tu vida.*
 
@@ -88,7 +88,7 @@ These are model answers written for revision, not QCAA samples. **Models 1–3 a
 The real Section 3 task is an **email in Spanish with three bullet points** you must address (see [past papers analysis](/spanish/past-papers)). The two models below follow the *style* of the 2025 and 2024 tasks. They are original revision models, not QCAA samples. Adapt gender endings and details to yourself.
 :::
 
-### Email A – to a teacher about how learning Spanish has influenced you (about 210 words)
+### Email A – to a teacher about how learning Spanish has influenced you (about 225 words)
 **Bullets:** feelings about learning Spanish and whether they have changed · a specific experience · hopes and aspirations for using Spanish after school.
 
 > **Asunto:** Cómo el español ha influido en mi vida
@@ -97,11 +97,11 @@ The real Section 3 task is an **email in Spanish with three bullet points** you 
 >
 > Le escribo para contarle cómo el aprendizaje del español ha influido en mí durante estos años.
 >
-> Cuando empecé en el Año 7, no me gustaba mucho porque la gramática me parecía difícil y aburrida. Sin embargo, mis sentimientos han cambiado completamente. Ahora me encanta el idioma porque me permite comunicarme con personas de otras culturas y entender mejor el mundo.
+> Cuando empecé en el Año 7, no me gustaba mucho porque la gramática me parecía difícil y aburrida. Sin embargo, mis sentimientos han cambiado completamente. Ahora me encanta el idioma porque me permite comunicarme con personas de otras culturas y entender mejor el mundo. Además, entender canciones y películas en español se ha convertido en uno de mis pasatiempos favoritos.
 >
-> Una experiencia que nunca olvidaré ocurrió el año pasado, cuando participé en un intercambio virtual con estudiantes de Colombia. Al principio estaba muy nerviosa y casi no podía hablar, pero mi compañera Camila fue muy paciente y me ayudó a expresarme. Hablamos de la música, de la comida y de nuestros planes para el futuro. Gracias a esa conversación, gané mucha confianza y aprendí que equivocarse es parte del proceso.
+> Una experiencia que nunca olvidaré ocurrió el año pasado, cuando participé en un intercambio virtual con estudiantes de Colombia. Al principio estaba muy nerviosa y casi no podía hablar, pero mi compañera Camila fue muy paciente y me ayudó a expresarme. Después de la videollamada, practiqué con ella por mensajes todas las semanas. Hablamos de la música, de la comida y de nuestros planes para el futuro. Gracias a esa conversación, gané mucha confianza y aprendí que equivocarse es parte del proceso.
 >
-> En el futuro, espero seguir usando el español. Cuando termine el colegio, me gustaría viajar a España o a Argentina para practicar con hablantes nativos. Además, si tuviera la oportunidad, estudiaría relaciones internacionales y trabajaría en una organización que ayude a comunidades hispanohablantes.
+> En el futuro, espero seguir usando el español. Cuando termine el colegio, me gustaría viajar a España o a Argentina para practicar con hablantes nativos. Además, si tuviera la oportunidad, estudiaría relaciones internacionales y trabajaría en una organización que ayude a comunidades hispanohablantes. Sé que todavía tengo mucho que aprender, pero estoy decidida a seguir mejorando.
 >
 > Le agradezco mucho su apoyo y sus clases.
 >
@@ -110,7 +110,7 @@ The real Section 3 task is an **email in Spanish with three bullet points** you 
 
 **Why it works:** each bullet gets its own paragraph and is *elaborated*. It uses past contrast (`no me gustaba` / `participé`), present perfect (`han cambiado`), subjunctive (`espero seguir`, `cuando termine`, `que ayude`), `si` clause (`si tuviera… estudiaría`), and a formal register (`usted`).
 
-### Email B – to a hotel after a graduation trip (about 210 words)
+### Email B – to a hotel after a graduation trip (about 220 words)
 **Bullets:** thank the chef for the service and variety of food · suggest better activities for young people · enquire about a lost phone.
 
 > **Asunto:** Agradecimiento, sugerencias y consulta sobre un teléfono perdido
@@ -119,11 +119,11 @@ The real Section 3 task is an **email in Spanish with three bullet points** you 
 >
 > Me alojé con mi familia en su hotel la semana pasada para celebrar mi graduación. Les escribo por tres razones.
 >
-> En primer lugar, quisiera agradecer al cocinero por su excelente servicio y la gran variedad de comida. Todas las mañanas había frutas frescas, pan casero y platos típicos argentinos. Mi favorito fue la parrillada de la cena de despedida. ¡Estaba deliciosa!
+> En primer lugar, quisiera agradecer al cocinero por su excelente servicio y la gran variedad de comida. Todas las mañanas había frutas frescas, pan casero y platos típicos argentinos. Mi favorito fue la parrillada de la cena de despedida. ¡Estaba deliciosa! El camarero también fue muy amable y siempre nos atendió con una sonrisa.
 >
-> En segundo lugar, me gustaría sugerir mejores actividades para los jóvenes. Aunque el hotel era cómodo, había pocas cosas para hacer por la noche. Sería una buena idea organizar excursiones en bicicleta, clases de tango o torneos deportivos. Si hubiera más actividades, los jóvenes se divertirían mucho más.
+> En segundo lugar, me gustaría sugerir mejores actividades para los jóvenes. Aunque el hotel era cómodo, había pocas cosas para hacer por la noche. Sería una buena idea organizar excursiones en bicicleta, clases de tango o torneos deportivos. Si hubiera más actividades, los jóvenes se divertirían mucho más. A mi hermano y a mí nos habría encantado hacer algo diferente después de cenar.
 >
-> Por último, creo que perdí mi teléfono en el restaurante o en la piscina. Es negro y tiene una funda azul. ¿Podrían decirme si alguien lo ha encontrado? Si lo tienen, les agradecería que me lo enviaran a Australia, y yo pagaría el coste del envío.
+> Por último, creo que perdí mi teléfono en el restaurante o en la piscina. Lo perdí el último día, justo antes de salir hacia el aeropuerto. Es negro y tiene una funda azul. Mi habitación era la 304 y la reserva estaba a nombre de mi padre. ¿Podrían decirme si alguien lo ha encontrado? Si lo tienen, les agradecería que me lo enviaran a Australia, y yo pagaría el coste del envío.
 >
 > Muchas gracias de antemano por su ayuda.
 >

@@ -83,7 +83,7 @@ pair: la cuenta bancaria => bank account
 :::
 
 :::quiz
-question: Words from the 2024–25 papers: match each Spanish word to its English meaning
+question: Useful words for tasks like the 2024–25 papers (hotel, bookings, work abroad): match each Spanish word to its English meaning
 pair: el servicio => service
 pair: perder el teléfono => to lose the phone
 pair: el hotel => hotel
@@ -93,7 +93,7 @@ pair: la hostelería => hospitality industry
 :::
 
 :::quiz
-question: Words from the 2024–25 papers: match each Spanish word to its English meaning
+question: Useful words for tasks like the 2024–25 papers (hotel, bookings, work abroad): match each Spanish word to its English meaning
 pair: el propósito => purpose
 pair: el año sabático => gap year
 pair: la reserva => reservation
@@ -103,7 +103,7 @@ pair: hispanohablante => Spanish speaker
 :::
 
 :::quiz
-question: Words from the 2020–22 papers: match each Spanish word to its English meaning
+question: Useful words for topics like the 2020–22 papers (travel, migration, goals, money): match each Spanish word to its English meaning
 pair: el alojamiento => accommodation
 pair: el trámite => bureaucratic procedure
 pair: el ecoturismo => ecotourism
@@ -113,7 +113,7 @@ pair: la meta => goal
 :::
 
 :::quiz
-question: Words from the 2020–22 papers: match each Spanish word to its English meaning
+question: Useful words for topics like the 2020–22 papers (travel, migration, goals, money): match each Spanish word to its English meaning
 pair: alcanzar un sueño => to achieve a dream
 pair: la deuda => debt
 pair: ahorrar => to save (money)

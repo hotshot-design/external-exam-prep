@@ -32,7 +32,7 @@ May ask you to interpret graphs/tables/diagrams, respond to unseen stimulus, and
 6. Communicate in contextually appropriate Spanish (short and extended).
 
 ## Unit 4 topics (what stimulus will be about)
-- **The present:** end-of-school life, graduation (graduación, formatura, fiesta de fin de curso) in Australia and Spanish-speaking communities; young people shaping the future (technology, sustainability, innovation); social and global events; **volunteering**.
+- **The present:** end-of-school life, graduation (graduación, fiesta de fin de curso) in Australia and Spanish-speaking communities; young people shaping the future (technology, sustainability, innovation); social and global events; **volunteering**.
 - **Future choices:** employment prospects, benefits of speaking a second language; post-school options and independence; the role of Spanish in future study, travel, careers; being a **global citizen**, staying connected to friends.
 
 ## Pages

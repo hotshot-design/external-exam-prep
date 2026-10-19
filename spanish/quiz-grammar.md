@@ -25,12 +25,12 @@ shuffle: true
 :::
 
 :::quiz
-question: El año pasado ___ como voluntaria.
+question: Ayer ___ tres horas como voluntaria.
 answer-correct: trabajé
 answer: trabajo
 answer: trabajaba
 answer: trabajaré
-explanation: A completed past event takes the preterite.
+explanation: A completed past event with a stated duration takes the preterite.
 shuffle: true
 :::
 
@@ -55,12 +55,12 @@ shuffle: true
 :::
 
 :::quiz
-question: Mañana nosotros ___ temprano.
+question: Mañana nosotros ___ temprano (future tense).
 answer-correct: saldremos
-answer: salimos
+answer: saldrán
 answer: salíamos
 answer: salieron
-explanation: Future of salir: saldr- + endings.
+explanation: Future of salir: saldr- + endings. Nosotros takes -emos (saldrán would be ellos). The present (salimos) can also talk about tomorrow in everyday Spanish, but this question asks for the future tense.
 shuffle: true
 :::
 
@@ -85,7 +85,7 @@ shuffle: true
 :::
 
 :::quiz
-question: Creo que el voluntariado ___ importante.
+question: Creo que el voluntariado ___ muy importante hoy en día.
 answer-correct: es
 answer: sea
 answer: fue
