@@ -5,7 +5,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 OUT = os.path.join(os.path.dirname(__file__), '..', '.vitepress', 'theme', 'diagrams')
 os.makedirs(OUT, exist_ok=True)
 n = 0
-for mod in ['diagrams_business', 'diagrams_film', 'diagrams_english', 'diagrams_spanish', 'diagrams_digital', 'diagrams_maths', 'diagrams_solutions', 'diagrams_solutions2']:
+for mod in ['diagrams_business', 'diagrams_film', 'diagrams_english', 'diagrams_spanish', 'diagrams_digital', 'diagrams_maths', 'diagrams_solutions', 'diagrams_solutions2', 'diagrams_examples', 'diagrams_solutions3']:
     try:
         m = importlib.import_module(mod)
     except ModuleNotFoundError as e:

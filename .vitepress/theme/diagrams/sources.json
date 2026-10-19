@@ -1,4 +1,242 @@
 {
+ "sol-film-2025-q1": [
+  {
+   "text": "2025 question paper",
+   "href": "/film/papers/snr_ftvnm_25_ea_question.pdf"
+  },
+  {
+   "text": "2025 marking guide",
+   "href": "/film/papers/snr_ftvnm_25_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-film-2025-q2": [
+  {
+   "text": "2025 question paper",
+   "href": "/film/papers/snr_ftvnm_25_ea_question.pdf"
+  },
+  {
+   "text": "2025 marking guide",
+   "href": "/film/papers/snr_ftvnm_25_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-film-2025-q3": [
+  {
+   "text": "2025 question paper",
+   "href": "/film/papers/snr_ftvnm_25_ea_question.pdf"
+  },
+  {
+   "text": "2025 marking guide",
+   "href": "/film/papers/snr_ftvnm_25_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-film-2024-q1": [
+  {
+   "text": "2024 question paper",
+   "href": "/film/papers/snr_ftvnm_24_ea_question.pdf"
+  },
+  {
+   "text": "2024 marking guide",
+   "href": "/film/papers/snr_ftvnm_24_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-film-2024-q2": [
+  {
+   "text": "2024 question paper",
+   "href": "/film/papers/snr_ftvnm_24_ea_question.pdf"
+  },
+  {
+   "text": "2024 marking guide",
+   "href": "/film/papers/snr_ftvnm_24_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-film-2024-q3": [
+  {
+   "text": "2024 question paper",
+   "href": "/film/papers/snr_ftvnm_24_ea_question.pdf"
+  },
+  {
+   "text": "2024 marking guide",
+   "href": "/film/papers/snr_ftvnm_24_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-eng-2024a": [
+  {
+   "text": "2024 question paper",
+   "href": "/english/papers/snr_english_24_ea_question.pdf"
+  },
+  {
+   "text": "2024 marking guide",
+   "href": "/english/papers/snr_english_eal_24_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-eng-2024b": [
+  {
+   "text": "2024 question paper",
+   "href": "/english/papers/snr_english_24_ea_question.pdf"
+  },
+  {
+   "text": "2024 marking guide",
+   "href": "/english/papers/snr_english_eal_24_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-eng-2025a": [
+  {
+   "text": "2025 question paper",
+   "href": "/english/papers/snr_english_25_ea_question.pdf"
+  },
+  {
+   "text": "2025 marking guide",
+   "href": "/english/papers/snr_english_eal_25_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-eng-2025b": [
+  {
+   "text": "2025 question paper",
+   "href": "/english/papers/snr_english_25_ea_question.pdf"
+  },
+  {
+   "text": "2025 marking guide",
+   "href": "/english/papers/snr_english_eal_25_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-es-2025-q1": [
+  {
+   "text": "2025 question paper",
+   "href": "/spanish/papers/snr_spanish_25_ea_question_response.pdf"
+  },
+  {
+   "text": "2025 marking guide",
+   "href": "/spanish/papers/snr_spanish_25_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-es-2025-q2": [
+  {
+   "text": "2025 question paper",
+   "href": "/spanish/papers/snr_spanish_25_ea_question_response.pdf"
+  },
+  {
+   "text": "2025 marking guide",
+   "href": "/spanish/papers/snr_spanish_25_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-es-2025-q4": [
+  {
+   "text": "2025 question paper",
+   "href": "/spanish/papers/snr_spanish_25_ea_question_response.pdf"
+  },
+  {
+   "text": "2025 marking guide",
+   "href": "/spanish/papers/snr_spanish_25_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-es-2024-q1": [
+  {
+   "text": "2024 question paper",
+   "href": "/spanish/papers/snr_spanish_24_ea_question_response.pdf"
+  },
+  {
+   "text": "2024 marking guide",
+   "href": "/spanish/papers/snr_spanish_24_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-es-2024-q2": [
+  {
+   "text": "2024 question paper",
+   "href": "/spanish/papers/snr_spanish_24_ea_question_response.pdf"
+  },
+  {
+   "text": "2024 marking guide",
+   "href": "/spanish/papers/snr_spanish_24_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "sol-es-2024-q6": [
+  {
+   "text": "2024 question paper",
+   "href": "/spanish/papers/snr_spanish_24_ea_question_response.pdf"
+  },
+  {
+   "text": "2024 marking guide",
+   "href": "/spanish/papers/snr_spanish_24_ea_mark_guide_pub.pdf"
+  }
+ ],
+ "ex-1-lsl": [
+  {
+   "text": "Syllabus, p.26",
+   "href": "/maths/syllabus/snr_maths_general_25_syll.pdf#page=26"
+  }
+ ],
+ "ex-2-moving": [
+  {
+   "text": "Syllabus, p.27",
+   "href": "/maths/syllabus/snr_maths_general_25_syll.pdf#page=27"
+  }
+ ],
+ "ex-3-seasonal": [
+  {
+   "text": "Syllabus, p.27",
+   "href": "/maths/syllabus/snr_maths_general_25_syll.pdf#page=27"
+  }
+ ],
+ "ex-4-depreciation": [
+  {
+   "text": "Syllabus, p.27",
+   "href": "/maths/syllabus/snr_maths_general_25_syll.pdf#page=27"
+  }
+ ],
+ "ex-6-compound": [
+  {
+   "text": "Syllabus, p.30",
+   "href": "/maths/syllabus/snr_maths_general_25_syll.pdf#page=30"
+  }
+ ],
+ "ex-7-loan": [
+  {
+   "text": "Syllabus, p.30",
+   "href": "/maths/syllabus/snr_maths_general_25_syll.pdf#page=30"
+  }
+ ],
+ "ex-8-annuity": [
+  {
+   "text": "Syllabus, p.30",
+   "href": "/maths/syllabus/snr_maths_general_25_syll.pdf#page=30"
+  }
+ ],
+ "ex-9-perpetuity": [
+  {
+   "text": "Syllabus, p.31",
+   "href": "/maths/syllabus/snr_maths_general_25_syll.pdf#page=31"
+  }
+ ],
+ "ex-10-wheel": [
+  {
+   "text": "Syllabus, p.32",
+   "href": "/maths/syllabus/snr_maths_general_25_syll.pdf#page=32"
+  }
+ ],
+ "ex-11-critical": [
+  {
+   "text": "Syllabus, p.33",
+   "href": "/maths/syllabus/snr_maths_general_25_syll.pdf#page=33"
+  }
+ ],
+ "ex-13-hungarian": [
+  {
+   "text": "Syllabus, p.33",
+   "href": "/maths/syllabus/snr_maths_general_25_syll.pdf#page=33"
+  }
+ ],
+ "ex-14-flight": [
+  {
+   "text": "Syllabus, p.28",
+   "href": "/maths/syllabus/snr_maths_general_25_syll.pdf#page=28"
+  }
+ ],
+ "ex-16-adjacency": [
+  {
+   "text": "Syllabus, p.32",
+   "href": "/maths/syllabus/snr_maths_general_25_syll.pdf#page=32"
+  }
+ ],
  "sol-2025-p2q3-flow": [
   {
    "text": "2025 P2 Q3 (paper, p.6)",

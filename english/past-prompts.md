@@ -13,6 +13,8 @@ The QCAA English materials in the [paper files](/english/papers) contain the que
 
 ## 2024 (a): "How is the reader invited to view the concept of jealousy in the play?"
 
+<Diagram name="sol-eng-2024a" />
+
 **Thesis:** *Othello* invites the reader to see jealousy as a self-generating, destructive force that exploits insecurity, one that is born in Iago's resentment, nourished by Othello's need for certainty, and fatal to all it touches.
 
 | Paragraph | Idea | Evidence and technique | Context / values |
@@ -29,6 +31,8 @@ The QCAA English materials in the [paper files](/english/papers) contain the que
 ---
 
 ## 2024 (b): "Analyse the significance of Desdemona's handkerchief in the play."
+
+<Diagram name="sol-eng-2024b" />
 
 **Thesis:** The handkerchief is *Othello*'s central symbol: a love token that Iago converts into "ocular proof", a measure of how objects replace people as evidence, and a marker of the way women are treated as property.
 
@@ -47,6 +51,8 @@ The QCAA English materials in the [paper files](/english/papers) contain the que
 
 ## 2025 (a): "What comment does the play make about the importance of reputation?"
 
+<Diagram name="sol-eng-2025a" />
+
 **Thesis:** *Othello* comments that reputation is a fragile social currency, easily stolen or counterfeited, and that those who value appearances over truth, from Cassio to Othello himself, are most vulnerable to destruction.
 
 | Paragraph | Idea | Evidence and technique | Context / values |
@@ -63,6 +69,8 @@ The QCAA English materials in the [paper files](/english/papers) contain the que
 ---
 
 ## 2025 (b): "Analyse the significance of Emilia's character in the play."
+
+<Diagram name="sol-eng-2025b" />
 
 **Thesis:** Emilia is significant as a foil to Desdemona, as the unwitting agent of the handkerchief plot, and as the voice who exposes the play's patriarchal double standards and finally speaks the truth that destroys Iago.
 

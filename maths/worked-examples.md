@@ -7,6 +7,8 @@ All answers below were calculated and rounded at the end. Keep full calculator p
 ## Unit 3
 
 ### 1. Least-squares line
+
+<Diagram name="ex-1-lsl" />
 Given $r = 0.8$, $s_x = 2$, $s_y = 5$, $\bar{x} = 10$, $\bar{y} = 40$.
 - $m = r \times \dfrac{s_y}{s_x} = 0.8 \times \dfrac{5}{2} = 2$
 - $c = \bar{y} - m\bar{x} = 40 - 2 \times 10 = 20$
@@ -14,6 +16,8 @@ Given $r = 0.8$, $s_x = 2$, $s_y = 5$, $\bar{x} = 10$, $\bar{y} = 40$.
 - **Interpretation:** for each 1 unit increase in x, y increases by 2 units on average. $R^2 = 0.8^2 = 0.64$, so **64%** of the variation in y is explained by x.
 
 ### 2. Moving averages (3-point mean)
+
+<Diagram name="ex-2-moving" />
 Data: 12, 15, 14, 18, 20, 19, 23
 - $\dfrac{12+15+14}{3} =$ **13.7**
 - $\dfrac{15+14+18}{3} =$ **15.7**
@@ -24,6 +28,8 @@ Data: 12, 15, 14, 18, 20, 19, 23
 The first and last data points have no smoothed value.
 
 ### 3. Seasonal index and deseasonalising
+
+<Diagram name="ex-3-seasonal" />
 Quarterly sales:
 | | Q1 | Q2 | Q3 | Q4 | Year average |
 |---|---|---|---|---|---|
@@ -35,6 +41,8 @@ Percentage of year average: Year 1: 80%, 120%, 160%, 40%. Year 2: 80%, 120%, 160
 Deseasonalise Year 2 Q3: $\dfrac{88}{1.60} = 55$.
 
 ### 4. Sequences
+
+<Diagram name="ex-4-depreciation" />
 - **Arithmetic:** $t_1 = 12$, $d = 5$. $t_{20} = 12 + (20-1) \times 5 = 107$.
 - **Geometric:** $t_1 = 3$, $r = 2$. $t_6 = 3 \times 2^{5} = 96$.
 - **Diminishing-value depreciation:** \$10 000 depreciating 15% per year for 3 years: $10\,000 \times 0.85^{3} = \$6\,141.25$.
@@ -47,6 +55,8 @@ Deseasonalise Year 2 Q3: $\dfrac{88}{1.60} = 55$.
 ## Unit 4
 
 ### 6. Compound interest
+
+<Diagram name="ex-6-compound" />
 \$5 000 at 6% p.a. compounded **monthly** for 3 years.
 - $i = \dfrac{0.06}{12} = 0.005$, $n = 3 \times 12 = 36$
 - $A = 5000 \times 1.005^{36} = \$5\,983.40$
@@ -54,28 +64,38 @@ Deseasonalise Year 2 Q3: $\dfrac{88}{1.60} = 55$.
 - **Effective annual rate:** $(1.005)^{12} - 1 = 0.0617$, i.e. **6.17%**.
 
 ### 7. Reducing-balance loan (present value annuity)
+
+<Diagram name="ex-7-loan" />
 Borrow \$20 000 at 7.2% p.a., repaid **monthly** over 5 years.
 - $i = \dfrac{0.072}{12} = 0.006$, $n = 60$
 - Rearrange $A_{PV} = d \times \dfrac{1-(1+i)^{-n}}{i}$ for $d$: $d = \dfrac{20\,000 \times 0.006}{1 - 1.006^{-60}} \approx \$397.91$ per month
 - Total repaid $\approx \$23\,874.83$; interest ≈ **\$3 874.83** (calculated from the unrounded payment).
 
 ### 8. Future value annuity (savings)
+
+<Diagram name="ex-8-annuity" />
 Deposit \$200 monthly at 4.8% p.a. compounded monthly for 10 years.
 - $i = 0.004$, $n = 120$
 - $A_{FV} = 200 \times \dfrac{1.004^{120} - 1}{0.004} \approx \$30\,726.39$
 - Total deposits $= 200 \times 120 = \$24\,000$; interest ≈ **\$6 726.39**.
 
 ### 9. Perpetuity
+
+<Diagram name="ex-9-perpetuity" />
 Receive \$500 per quarter from an investment earning 4% p.a. compounded quarterly.
 - $i = \dfrac{0.04}{4} = 0.01$
 - $A = \dfrac{d}{i} = \dfrac{500}{0.01} = \$50\,000$
 
 ### 10. Graph theory
+
+<Diagram name="ex-10-wheel" />
 - **Euler's formula:** a planar graph has $v = 6$, $e = 10$. $f = 2 + e - v = 2 + 10 - 6 = 6$ faces.
 - **Eulerian circuit:** degrees 2, 4, 2, 4, 2 are all even (and the graph is connected), so an Eulerian circuit exists.
 - **Eulerian trail:** exactly two odd-degree vertices (all other even).
 
 ### 11. Critical path analysis
+
+<Diagram name="ex-11-critical" />
 | Activity | Duration | Predecessors |
 |---|---|---|
 | A | 3 | none |
@@ -100,6 +120,8 @@ Edges (capacity): S→A 10, S→B 8, A→B 3, A→T 7, B→T 9.
 **Minimum cut = 16, so maximum flow = 16.**
 
 ### 13. Hungarian algorithm (assignment)
+
+<Diagram name="ex-13-hungarian" />
 Cost matrix (rows = workers, columns = jobs):
 | | J1 | J2 | J3 |
 |---|---|---|---|
@@ -114,6 +136,8 @@ Cost matrix (rows = workers, columns = jobs):
 ---
 
 ### 14. Time zones, then distance and time together
+
+<Diagram name="ex-14-flight" />
 Flight from Sydney (UTC+10) departs 9:50 pm Tuesday and lands in Los Angeles (UTC−8) at 6:50 pm Tuesday (local). Total distance 12 070 km. When has it flown 4828 km?
 - Time difference = 10 − (−8) = **18 h** (Sydney is ahead).
 - Arrival in Sydney time = 6:50 pm Tuesday + 18 h = **12:50 pm Wednesday**, so the flight takes **15 h**.
@@ -127,6 +151,8 @@ Flight from Sydney (UTC+10) departs 9:50 pm Tuesday and lands in Los Angeles (UT
 - Interest in the first two months = total repayments − reduction in balance = 500 − (15 000 − 14 708.99) = **\$208.99**. (Check: 0.007 × 15 000 + 0.007 × 14 855 = 105 + 103.99.)
 
 ### 16. Adjacency matrix and Euler trail
+
+<Diagram name="ex-16-adjacency" />
 Graph with edges A–B, A–C, B–C, C–D.
 - Matrix (rows/columns A–D): A [0 1 1 0], B [1 0 1 0], C [1 1 0 1], D [0 0 1 0].
 - Degrees: A 2, B 2, C 3, D 1 (sum 8 = 2 × 4 edges). Exactly two odd vertices (C and D), so an **Eulerian trail** exists from C to D (for example C–A–B–C–D) but no Eulerian circuit.

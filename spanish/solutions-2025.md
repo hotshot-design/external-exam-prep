@@ -10,6 +10,8 @@ Built from the QCAA **2025 Spanish** question and response book, stimulus book a
 Each question gets **3 marks for content** (a conclusion plus **two** examples) and **4 marks for the Spanish** (receptive vs productive mode): 4 = few errors, 3 = some errors, 2 = words and isolated phrases, 1 = fragmented meaning.
 
 ### Q1 (7 marks): What is the context? Justify with two examples
+
+<Diagram name="sol-es-2025-q1" />
 **Guide sample:** *El contexto de estímulo 1 es un discurso en una celebración del cumpleaños de cincuenta años de un padre que da su hijo. Esto es evidente cuando el hablante da la bienvenida a la gente que está allí en esta ocasión especial y pide un aplauso para su padre. También le da las gracias y le desea felicidad en su cumpleaños.*
 - **Conclusion (1):** a speech at a father's 50th birthday celebration, given by his son.
 - **Example 1 (1):** the speaker welcomes the guests to this special occasion and asks for applause for his father.
@@ -18,6 +20,8 @@ Each question gets **3 marks for content** (a conclusion plus **two** examples) 
 **Frame to reuse:** *El contexto es… Esto es evidente cuando…. También…*
 
 ### Q2 (7 marks): What does the tone reveal about the speaker's opinion? Two examples
+
+<Diagram name="sol-es-2025-q2" />
 **Guide sample:** *El tono del hombre … es agradecido, esto es evidente cuando enumera todo lo que su padre le ha dado en la vida, desde inspiración hasta viajes solidarios. Su opinión sobre su padre es que ha sido una influencia positiva en su desarrollo personal… Muestra esto cuando refiere a su memorable viaje a Bolivia donde ayudó a la gente… Expresa su aprecio por la experiencia tan hermosa que tuvo.*
 - **Conclusion (1):** the tone is **grateful** and shows he sees his father as a positive influence.
 - **Example 1 (1):** he lists everything his father gave him, from inspiration to volunteering trips.
@@ -34,6 +38,8 @@ Pattern: **1 mark for the conclusion + 1 mark per example** (count the examples 
 - *Example 2:* the writer addresses them directly ("ustedes… después de graduarse… se acerca el momento de elegir su propio camino") and shares personal anecdotes (deferring university to work and travel).
 
 ### Q4 (6 marks): Two perspectives in Stimulus 2, with two examples each
+
+<Diagram name="sol-es-2025-q4" />
 **Perspective 1: embracing change is beneficial (3 marks).**
 - Example: the writer changed plans, working and travelling to Mexico instead of going straight to university.
 - Example: a rhetorical question, "¿a qué esperan?", challenges readers to stop waiting and start their next adventure.

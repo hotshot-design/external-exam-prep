@@ -33,6 +33,8 @@ In 2024 the guide's *Explaining* criterion also includes **explaining connection
 ## 2025
 
 ### Q1 Technologies: Mitski, *Love Me More* (music video, 2022)
+
+<Diagram name="sol-film-2025-q1" />
 **Question:** How effectively have technologies been used to enhance meaning? Justify by analysing the stimulus and explaining the contexts of production and use, **including the target audience**.
 
 **From the context box:**
@@ -49,6 +51,8 @@ In 2024 the guide's *Explaining* criterion also includes **explaining connection
 5. Judgment: effectiveness for the target audience, and one limit.
 
 ### Q2 Representations: *The Last Job on Earth* (animation, Moth Collective, 2016)
+
+<Diagram name="sol-film-2025-q2" />
 **Question:** How effectively have ideas about the future been represented? Analyse the stimulus and explain production and use, including the target audience.
 
 **From the context box:**
@@ -60,6 +64,8 @@ In 2024 the guide's *Explaining* criterion also includes **explaining connection
 Link every analysis point to **an audience of older, readers of business news** and the **article's message** that a post-work society is not to be feared.
 
 ### Q3 Audiences: *The Underdogs* (Apple web film, 2019)
+
+<Diagram name="sol-film-2025-q3" />
 **Question:** How effectively does the web film position the audience to engage with the Apple brand?
 
 **From the context box:**
@@ -75,6 +81,8 @@ Discuss **positioning** (how the audience is encouraged to see products as usefu
 ## 2024
 
 ### Q1 Representations: *Silent* (Moonbot Studios in partnership with Dolby, 2014)
+
+<Diagram name="sol-film-2024-q1" />
 **Question:** How effectively do the characters represent the evolution of moving images and audio, and the relationship between them? Analyse and appraise the stimulus, considering production and use.
 
 **From the context box:**
@@ -86,6 +94,8 @@ Discuss **positioning** (how the audience is encouraged to see products as usefu
 Analyse how each character's **design, movement and sound** work together, and how the relationship between them is shown.
 
 ### Q2 Technologies: *Jurassic World: Dominion* (2022), the blind dinosaur scene
+
+<Diagram name="sol-film-2024-q2" />
 **Question:** How effectively have technologies been used to **build tension** and **position the audience**?
 
 **From the context box:**
@@ -97,6 +107,8 @@ Analyse how each character's **design, movement and sound** work together, and h
 Cover how **sound design, CGI/animatronics, camera and editing** create tension (a blind predator suggests sound and silence), and how the audience is positioned alongside Claire.
 
 ### Q3 Institutions: Goldfish Focus Faceoff Lens (Zulu Alpha Kilo, 2022)
+
+<Diagram name="sol-film-2024-q3" />
 **Question:** Based on the stimulus, how has the advertising agency created an effective marketing campaign for teenagers?
 
 **From the context box:**

@@ -10,12 +10,16 @@ Built from the QCAA **2024 Spanish** question and response book, stimulus book a
 Content marks are 3 (Q1) and 4 (Q2), plus **4 marks each for the quality of your Spanish** (4 few errors, 3 some errors, 2 words and phrases, 1 fragmented).
 
 ### Q1 (7 marks): Who is Juliana trying to contact? Two examples
+
+<Diagram name="sol-es-2024-q1" />
 **Guide sample:** *La audiencia de este mensaje de voz es la persona que hace las reservas para el restaurante. Esto se escucha cuando la chica dice que tiene una reserva para la cena de su graduación y que la reserva está a su nombre.*
 - **Conclusion (1):** she is contacting the **restaurant staff who take the reservations** (the voicemail is for them).
 - **Example 1 (1):** she says she has a reservation for her **graduation dinner**.
 - **Example 2 (1):** she says the reservation is **in her name**.
 
 ### Q2 (8 marks): Purpose of Juliana's call? Three examples
+
+<Diagram name="sol-es-2024-q2" />
 **Guide sample:** *Juliana quiere cambiar su reserva y deja un mensaje en el buzón de voz del restaurante, explicándoles los cambios que desea. Primero, quiere cambiar el horario de la cena. Además, desea sentarse en el jardín y añadir una silla de niños para su prima que acaba de cumplir un año.*
 - **Purpose (1):** to **change her reservation**.
 - **Example 1 (1):** change the **time** of the dinner.
@@ -48,6 +52,8 @@ Three language choices:
 3. **Positive qualifiers** such as "valioso", "futuro prometedor".
 
 ### Q6 (5 marks): Why does the author believe Spanish is "el idioma del futuro"? Four examples
+
+<Diagram name="sol-es-2024-q6" />
 **Conclusion:** because Spanish is **growing quickly and widely**, with the potential to rank first.
 1. It is already the **second most widely spoken language after English**.
 2. It is the **third most used on the internet**, with a 65% rise in users (2010–2020).
