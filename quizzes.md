@@ -1,7 +1,7 @@
 # Quizzes
 
 ::: tip How they work
-Each quiz page has a progress bar and an **explanation** for every question. Single-choice questions show the right answer **as soon as you click**; other questions (multiple choice, fill-in, matching) have a **Check answer** button. **Validate** checks everything at once and **Restart** clears the page. Past-paper questions link to the **question paper and marking guide** (opens at the right page in a new tab). Answers are remembered while the tab is open (not after you close it), so treat these as repeatable drills. Quizzes check recall; they do not replace timed past papers. Fill-in answers ignore capitals and **accents**, so check Spanish accents separately.
+Each quiz page has a progress bar and an **explanation** for every question. Single-choice questions show the right answer **as soon as you click**; other questions (multiple choice, fill-in, matching) have a **Check answer** button. **Validate** checks everything at once and **Restart** clears the page. Past-paper questions link to the **question paper and marking guide** (opens at the right page in a new tab). Your answers and marks are saved in this browser and add up on [My progress](/progress); **Clear my answers** (at the bottom of each quiz) or **Restart** clears a page so you can drill it again. Quizzes check recall; they do not replace timed past papers. Fill-in answers ignore capitals and **accents**, so check Spanish accents separately.
 :::
 
 | Subject | Quizzes |

@@ -4,6 +4,7 @@ import { withBase } from 'vitepress'
 import { exams } from '../../data/exams'
 import { daysUntil, focusFor, isFinished, isoOf } from '../../data/examUtils'
 import { useNow } from '../composables/useNow'
+import { lastPage, type LastPage } from '../progress'
 
 const now = useNow()
 
@@ -21,7 +22,9 @@ const checklistId: Record<string, string> = {
 }
 
 const progress = ref<Record<string, { done: number; total: number } | null>>({})
+const last = ref<LastPage | null>(null)
 function load() {
+  last.value = lastPage()
   const out: Record<string, { done: number; total: number } | null> = {}
   for (const s of subjects) {
     try { out[s.id] = JSON.parse(localStorage.getItem(`progress-checklist:${checklistId[s.id]}`) || 'null') } catch { out[s.id] = null }
@@ -46,6 +49,10 @@ const link = (slug: string, page: string) => withBase(`/${slug}/${page}`)
   <ClientOnly>
     <div v-if="now && !allDone" class="today">
       <h2 class="h">Today</h2>
+      <p v-if="last" class="continue">
+        Continue where you left off: <a :href="withBase(last.path)">{{ last.title || last.path }}</a>
+        · <a :href="withBase('/progress')">my progress</a>
+      </p>
       <p v-if="todaysExams.length" class="alert">
         Exam today: <strong v-for="e in todaysExams" :key="e.id">{{ e.subject }} ({{ e.session }}) </strong>
       </p>
@@ -72,6 +79,7 @@ const link = (slug: string, page: string) => withBase(`/${slug}/${page}`)
 <style scoped>
 .today { border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 14px 18px; background: var(--vp-c-bg-soft); margin: 16px 0; }
 .h { border: none; margin: 0 0 6px; padding: 0; font-size: 18px; }
+.continue { margin: 4px 0 8px; font-size: 14px; }
 .alert { margin: 6px 0; padding: 6px 10px; border-left: 4px solid var(--vp-c-brand-1); background: var(--vp-c-bg); }
 ul { margin: 6px 0; padding-left: 18px; }
 .prog { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }

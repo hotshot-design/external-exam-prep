@@ -1,6 +1,8 @@
 import { defineComponent, h, inject, nextTick, onBeforeUnmount, onMounted, provide, ref, watch } from 'vue'
 import type { App } from 'vue'
-import { withBase } from 'vitepress'
+import { useData, useRoute, withBase } from 'vitepress'
+import { hashText } from '../data/examUtils'
+import { markQuiz, pageKey, quizAnswer, quizMarks, saveQuizAnswer } from './progress'
 
 /**
  * The quiz plugin only reveals answers when the page-level "Validate" is pressed.
@@ -8,6 +10,8 @@ import { withBase } from 'vitepress'
  *  - single-choice questions are checked as soon as an option is clicked
  *  - other questions (multiple choice, fill-in, matching) get a "Check answer" button
  * The page-level Validate and Reset still work for every question.
+ * Answers and marks are kept in localStorage (see progress.ts), keyed by a hash of the
+ * question, so they survive closing the tab and feed the Progress page.
  */
 export function enableLiveQuizFeedback(app: App) {
   const Orig = app.component('QuizQuestion') as any
@@ -30,8 +34,26 @@ export function enableLiveQuizFeedback(app: App) {
         const pageReset = inject<any>('quiz-reset', ref(0))
         provide('quiz-validated', checked)
 
+        // Replace the plugin's per-tab (sessionStorage) answers with saved ones.
+        const path = pageKey(useRoute().path, useData().site.value.base)
+        const qid = hashText(props.dataQuiz)
+        provide('quiz-question-id', () => qid)
+        provide('quiz-save-answer', (_: unknown, a: unknown) => saveQuizAnswer(path, qid, a))
+        provide('quiz-get-answer', () => quizAnswer(path, qid))
+        // Capture the question's isCorrect so a check can be recorded.
+        const register = inject<any>('quiz-register', null)
+        let state: { isCorrect: { value: boolean } } | undefined
+        provide('quiz-register', (s: any) => { state = s; return register ? register(s) : () => {} })
+        const total = () => document.querySelectorAll('.quiz-live').length
+
+        let restoring = false
+        watch(checked, v => { if (v && state && !restoring) markQuiz(path, qid, state.isCorrect.value, total()) }, { flush: 'sync' })
         watch(pageValidated, v => { if (v) checked.value = true })
-        watch(pageReset, () => { checked.value = false })
+        watch(pageReset, () => {
+          checked.value = false
+          saveQuizAnswer(path, qid, null)
+          markQuiz(path, qid, null, total())
+        })
 
         // The plugin shows explanations as plain text (bold/italic/code only), so turn
         // [text](url) markdown links inside the explanation into real links.
@@ -62,6 +84,11 @@ export function enableLiveQuizFeedback(app: App) {
           }
         }
         onMounted(() => {
+          if (qid in quizMarks(path)) {
+            restoring = true
+            checked.value = true
+            restoring = false
+          }
           if (!root.value) return
           observer = new MutationObserver(linkify)
           observer.observe(root.value, { childList: true, subtree: true, characterData: true })

@@ -88,6 +88,7 @@ export default defineConfig({
     nav: [
       { text: 'Timetable', link: '/timetable' },
       { text: 'Planner', link: '/planner' },
+      { text: 'Progress', link: '/progress' },
       { text: 'Strategy', link: '/strategy' },
       { text: 'Subjects', items: subjectNav },
       { text: 'Past papers', link: '/past-papers' },
@@ -100,6 +101,7 @@ export default defineConfig({
           { text: 'Home', link: '/' },
           { text: 'Timetable', link: '/timetable' },
           { text: 'Study planner', link: '/planner' },
+          { text: 'My progress', link: '/progress' },
           { text: 'Exam strategy', link: '/strategy' },
           { text: 'All past papers', link: '/past-papers' },
           { text: 'All quizzes', link: '/quizzes' },
